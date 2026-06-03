@@ -1,0 +1,9 @@
+City Clinical Laboratory
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+TSH                    0.35       mIU/L      0.4-4.0
+T3                     34.67                 0-0
+T4                     4.65                  0-0
+Free T3                4.21                  0-0
+Free T4                42.31                 0-0

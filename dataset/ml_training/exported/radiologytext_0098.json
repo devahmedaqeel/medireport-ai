@@ -1,0 +1,14 @@
+{
+  "report_id": "radiologytext_0098",
+  "source": "synthetic",
+  "report_type": "RadiologyText",
+  "category": "Radiology",
+  "text_clean": "LifeScan Center\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "text_noisy": "LifeScan Center\n\nREPORT: RadiologyText\nCATEGORY: Radiol0gy\n\nFINDINGS:\nPatient presents with non-specific symptoms  Radi0l0gyText reveaIs s0me abn0rmalities in radioI0gy structures \n\nIMPRESSION:\nFindings may indicate potentiaI radioIogy concern. Rec0mmend speciaIist review \n",
+  "findings": "Patient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.",
+  "impression": "Findings may indicate potential radiology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

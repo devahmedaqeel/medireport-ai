@@ -1,0 +1,15 @@
+City Clinical Laboratory
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Haemoglobin            62.23      g/dL       12.0-17.0
+WBC                    5069.64    /cmm       4000-11000
+Red Blood Cells        60.88                 0-0
+Platelets              238029.42  /cmm       150000-450000
+Hematocrit             74.15                 0-0
+MCV                    37.62                 0-0
+MCH                    0.54                  0-0
+MCHC                   0.83                  0-0
+RDW                    1.2                   0-0
+Neutrophils            36.62                 0-0
+Lymphocytes            97.98                 0-0

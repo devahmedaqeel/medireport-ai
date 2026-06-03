@@ -1,0 +1,9 @@
+Global MedLabs
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum TSH              3.84       mIU/L      0.4-4.0
+T3                     430.09                0-0
+T4                     107.31                0-0
+Free T3                186.5                 0-0
+Free T4                9.37                  0-0

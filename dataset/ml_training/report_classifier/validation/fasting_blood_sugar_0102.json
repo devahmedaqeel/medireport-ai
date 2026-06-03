@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0102",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar 3.92  0 - 0",
+  "text_noisy": "GlobaI MedLabs\n\nREPORT: Fasting Blo0d Sugar\nFasting Blo0d Sugar 3.92  0 - 0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 3.92,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar 3.92  0 - 0"
+    }
+  ]
+}

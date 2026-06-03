@@ -1,0 +1,5 @@
+LifeScan Center
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     3.43                  0-0

@@ -1,0 +1,14 @@
+Prime Diagnostics
+
+REPORT: CBC
+Haemoglobin: 13.69 g/dL [Ref: 12.0-17.0]
+TLC: 2891.82 /cmm [Ref: 4000-11000]
+Red Blood Cells: 14.03  [Ref: 0-0]
+PLT: 295474.19 /cmm [Ref: 150000-450000]
+Hematocrit: 94.65  [Ref: 0-0]
+MCV: 31.01  [Ref: 0-0]
+MCH: 14.67  [Ref: 0-0]
+MCHC: 1.32  [Ref: 0-0]
+RDW: 23.7  [Ref: 0-0]
+Neutrophils: 33.47  [Ref: 0-0]
+Lymphocytes: 30.39  [Ref: 0-0]

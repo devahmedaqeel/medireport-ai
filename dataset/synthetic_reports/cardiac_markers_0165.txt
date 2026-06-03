@@ -1,0 +1,8 @@
+LifeScan Center
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+cTnI                   0.02       ng/L       0-0.04
+CK-MB                  89.28                 0-0
+BNP                    18.29                 0-0
+LDH                    7.48                  0-0

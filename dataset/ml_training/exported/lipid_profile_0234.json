@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0234",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Metro Healthcare\n\nREPORT: Lipid Profile\nTotal Cholesterol 3.17  0 - 0\nLDL 31.2  0 - 0\nHDL 12.73  0 - 0\nVLDL 20.03  0 - 0\nTriglycerides 46.55  0 - 0\nCholesterol/HDL Ratio 58.64  0 - 0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Lipid Profile\nTotal Cholesterol 3.17  0 - 0\nLDL 31.2  0 - 0\nHDL 12.73  0 - 0\nVLDL 20.03  0 - 0\nTriglycerides 46.55  0 - 0\nCholesterol/HDL Ratio 58.64  0 - 0",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 3.17,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol 3.17  0 - 0"
+    },
+    {
+      "test_name": "LDL",
+      "value": 31.2,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL 31.2  0 - 0"
+    },
+    {
+      "test_name": "HDL",
+      "value": 12.73,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL 12.73  0 - 0"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 20.03,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL 20.03  0 - 0"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 46.55,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides 46.55  0 - 0"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 58.64,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio 58.64  0 - 0"
+    }
+  ]
+}

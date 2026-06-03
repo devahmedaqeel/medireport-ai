@@ -1,0 +1,14 @@
+{
+  "report_id": "radiologytext_0025",
+  "source": "synthetic",
+  "report_type": "RadiologyText",
+  "category": "Radiology",
+  "text_clean": "Prime Diagnostics\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: RadioI0gyText\nCATEGORY: RadioIogy\n\nFINDINGS:\nPatient presents with non-specific symptoms. Radi0I0gyText reveaIs some abn0rmalities in radioIogy structures \n\nIMPRESSION:\nFindings may indicate p0tential radi0I0gy concern. Recommend speciaIist review.\n",
+  "findings": "Patient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.",
+  "impression": "Findings may indicate potential radiology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

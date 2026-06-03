@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0139",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    90.76                 0-0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    90.76                 0-0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 90.76,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar    90.76                 0-0"
+    }
+  ]
+}

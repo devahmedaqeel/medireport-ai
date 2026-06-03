@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Random Blood Sugar
+Random Blood Sugar: 60.16  [Ref: 0-0]

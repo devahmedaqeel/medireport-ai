@@ -1,0 +1,15 @@
+Prime Diagnostics
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+HGB                    16.61      g/dL       12.0-17.0
+White Blood Cells      7164.97    /cmm       4000-11000
+Red Blood Cells        39.54                 0-0
+Platelet Count         1437725.73 /cmm       150000-450000
+Hematocrit             123.04                0-0
+MCV                    18.18                 0-0
+MCH                    6.28                  0-0
+MCHC                   4.53                  0-0
+RDW                    27.71                 0-0
+Neutrophils            46.38                 0-0
+Lymphocytes            43.53                 0-0

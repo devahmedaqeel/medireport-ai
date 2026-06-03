@@ -1,0 +1,10 @@
+City Clinical Laboratory
+
+REPORT: Lipid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Total Cholesterol      45.73                 0-0
+LDL                    33.9                  0-0
+HDL                    81.49                 0-0
+VLDL                   386.08                0-0
+Triglycerides          32.27                 0-0
+Cholesterol/HDL Ratio  438.46                0-0

@@ -1,0 +1,14 @@
+Global MedLabs
+
+REPORT: Urine Report
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Urine Protein          17.08                 0-0
+Urine Glucose          8.06                  0-0
+Urine Ketones          104.26                0-0
+Pus Cells              279.49                0-0
+Urine RBC              49.81                 0-0
+Epithelial Cells       92.38                 0-0
+Nitrite                15.37                 0-0
+Leukocyte Esterase     69.32                 0-0
+Specific Gravity       21.65                 0-0
+pH                     3.21                  0-0

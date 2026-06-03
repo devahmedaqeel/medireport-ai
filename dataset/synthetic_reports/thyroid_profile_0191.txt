@@ -1,0 +1,8 @@
+Global MedLabs
+
+REPORT: Thyroid Profile
+Serum TSH: 3.92 mIU/L [Ref: 0.4-4.0]
+T3: 15.0  [Ref: 0-0]
+T4: 39.23  [Ref: 0-0]
+Free T3: 18.74  [Ref: 0-0]
+Free T4: 102.55  [Ref: 0-0]

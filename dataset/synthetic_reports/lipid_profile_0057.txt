@@ -1,0 +1,9 @@
+Metro Healthcare
+
+REPORT: Lipid Profile
+Total Cholesterol: 36.67  [Ref: 0-0]
+LDL: 46.19  [Ref: 0-0]
+HDL: 9.13  [Ref: 0-0]
+VLDL: 39.72  [Ref: 0-0]
+Triglycerides: 3.12  [Ref: 0-0]
+Cholesterol/HDL Ratio: 104.08  [Ref: 0-0]

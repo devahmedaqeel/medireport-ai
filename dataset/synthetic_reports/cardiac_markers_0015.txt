@@ -1,0 +1,8 @@
+Metro Healthcare
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+cTnI                   0.0        ng/L       0-0.04
+CK-MB                  30.77                 0-0
+BNP                    3.74                  0-0
+LDH                    48.53                 0-0

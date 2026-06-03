@@ -1,0 +1,12 @@
+LifeScan Center
+
+REPORT: Liver Function Test
+SGPT: 53.13 U/L [Ref: 7-56]
+AST: 12.38  [Ref: 0-0]
+ALP: 18.8  [Ref: 0-0]
+Bilirubin Total: 28.39  [Ref: 0-0]
+Bilirubin Direct: 19.9  [Ref: 0-0]
+Bilirubin Indirect: 15.64  [Ref: 0-0]
+Albumin: 12.77  [Ref: 0-0]
+Total Protein: 46.59  [Ref: 0-0]
+GGT: 122.01  [Ref: 0-0]

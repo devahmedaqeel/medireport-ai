@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0160",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Global MedLabs\n\nREPORT: Thyroid Profile\nThyroid Stimulating Hormone 2.46 mIU/L 0.4 - 4.0\nT3 6.16  0 - 0\nT4 24.21  0 - 0\nFree T3 8.33  0 - 0\nFree T4 106.91  0 - 0",
+  "text_noisy": "Gl0bal MedLabs\n\nREPORT: Thyr0id Profile\nThyroid StimuIating Horm0ne 2.46 mIU/L 0 4 - 4.0\nT3 6 16  0 - O\nT4 24 2I  0 - 0\nFree T3 8 33  O - O\nFree T4 106.9I  O - O",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 2.46,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "Thyroid Stimulating Hormone 2.46 mIU/L 0.4 - 4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 6.16,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3 6.16  0 - 0"
+    },
+    {
+      "test_name": "T4",
+      "value": 24.21,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4 24.21  0 - 0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 8.33,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3 8.33  0 - 0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 106.91,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4 106.91  0 - 0"
+    }
+  ]
+}

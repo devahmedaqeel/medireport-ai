@@ -1,0 +1,14 @@
+{
+  "report_id": "radiologytext_0107",
+  "source": "synthetic",
+  "report_type": "RadiologyText",
+  "category": "Radiology",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "text_noisy": "City CIinical Laboratory\n\nREPORT: Radi0logyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific sympt0ms  RadioI0gyText reveaIs some abn0rmalities in radi0logy structures.\n\nIMPRESSION:\nFindings may indicate potential radi0Iogy c0ncern. Recommend specialist review \n",
+  "findings": "Patient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.",
+  "impression": "Findings may indicate potential radiology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

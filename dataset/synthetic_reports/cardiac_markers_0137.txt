@@ -1,0 +1,8 @@
+City Clinical Laboratory
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Trop I                 0.07       ng/L       0-0.04
+CK-MB                  30.38                 0-0
+BNP                    11.98                 0-0
+LDH                    8.84                  0-0

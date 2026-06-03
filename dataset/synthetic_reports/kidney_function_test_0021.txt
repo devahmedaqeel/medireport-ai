@@ -1,0 +1,12 @@
+Global MedLabs
+
+REPORT: Kidney Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Creatinine             2.06       mg/dL      0.6-1.3
+Urea                   118.58                0-0
+BUN                    36.78                 0-0
+Uric Acid              488.66                0-0
+eGFR                   13.15                 0-0
+Sodium                 23.55                 0-0
+Potassium              18.18                 0-0
+Chloride               78.41                 0-0

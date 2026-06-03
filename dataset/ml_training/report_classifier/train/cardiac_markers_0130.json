@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0130",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Cardiac Markers\nTroponin I 0.08 ng/L 0 - 0.04\nCK-MB 18.09  0 - 0\nBNP 44.4  0 - 0\nLDH 98.78  0 - 0",
+  "text_noisy": "Prime Diagn0stics\n\nREPORT: Cardiac Markers\nTroponin I 0 08 ng/L O - 0.04\nCK-MB I8.09  0 - 0\nBNP 44.4  0 - O\nLDH 98.78  O - O",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.08,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "High",
+      "span_text": "Troponin I 0.08 ng/L 0 - 0.04"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 18.09,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB 18.09  0 - 0"
+    },
+    {
+      "test_name": "BNP",
+      "value": 44.4,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP 44.4  0 - 0"
+    },
+    {
+      "test_name": "LDH",
+      "value": 98.78,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH 98.78  0 - 0"
+    }
+  ]
+}

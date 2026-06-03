@@ -1,0 +1,9 @@
+{
+  "report_id": "mixed_report_0076",
+  "source": "synthetic",
+  "report_type": "Mixed Report",
+  "category": "Mixed",
+  "text_clean": "Global MedLabs\n\nREPORT: Mixed Report\nINVESTIGATION          RESULT      UNIT      REFERENCE\n",
+  "text_noisy": "Global MedLabs\n\nREPORT: Mixed Report\nINVESTIGATION          RESULT      UNIT      REFERENCE\n",
+  "tests": []
+}

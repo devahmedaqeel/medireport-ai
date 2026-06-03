@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0001",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Metro Healthcare\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar: 90.87  [Ref: 0-0]",
+  "text_noisy": "Metro HeaIthcare\n\nREPORT: Fasting Bl0od Sugar\nFasting Bl0od Sugar: 90 87  [Ref: O-O]",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 90.87,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar: 90.87  [Ref: 0-0]"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Global MedLabs
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hb                     1.07       g/dL       12.0-17.0
+Total Leukocyte Count  3002.48    /cmm       4000-11000
+Red Blood Cells        7.34                  0-0
+PLT                    679664.2   /cmm       150000-450000
+Hematocrit             22.75                 0-0
+MCV                    491.95                0-0
+MCH                    49.09                 0-0
+MCHC                   4.24                  0-0
+RDW                    21.63                 0-0
+Neutrophils            89.46                 0-0
+Lymphocytes            5.39                  0-0

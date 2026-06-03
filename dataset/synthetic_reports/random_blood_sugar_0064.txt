@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Random Blood Sugar
+Random Blood Sugar 41.41  0 - 0

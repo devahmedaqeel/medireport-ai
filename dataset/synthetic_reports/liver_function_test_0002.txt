@@ -1,0 +1,13 @@
+Global MedLabs
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+SGPT                   17.82      U/L        7-56
+AST                    118.55                0-0
+ALP                    20.03                 0-0
+Bilirubin Total        30.92                 0-0
+Bilirubin Direct       20.1                  0-0
+Bilirubin Indirect     1.62                  0-0
+Albumin                17.44                 0-0
+Total Protein          31.58                 0-0
+GGT                    28.51                 0-0

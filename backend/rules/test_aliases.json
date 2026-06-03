@@ -1,0 +1,570 @@
+{
+  "Hemoglobin": {
+    "standard_name": "Hemoglobin",
+    "aliases": ["Hb", "HGB", "Haemoglobin", "Hemoglobin Count", "H6"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["g/dL", "g/L", "mmol/L"],
+    "ocr_variants": ["H6", "H b", "Hb.", "Haemogl0bin", "HaemogIobin", "HemogI0bin", "Hemo", "Hgb.", "H b"]
+  },
+  "White Blood Cells": {
+    "standard_name": "White Blood Cells",
+    "aliases": ["WBC", "TLC", "Total Leukocyte Count", "White Blood Cells", "W8C"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["/cmm", "uL", "x10^9/L"],
+    "ocr_variants": ["W8C", "W B C", "White BI0od Cells", "White BIo0d CelIs", "T0taI Leuk0cyte Count", "Total Leukocyte C0unt", "White BIood CeIls", "WBCs", "W.B.C.", "T.L.C."]
+  },
+  "Red Blood Cells": {
+    "standard_name": "Red Blood Cells",
+    "aliases": ["RBC", "Red Blood Cells", "R8C"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["million/uL", "x10^12/L"],
+    "ocr_variants": ["R8C", "Red Bl00d CeIls", "Red BIood CeIls", "Red Blo0d Cells", "Red Bl0od CelIs", "RBCs", "R.B.C."]
+  },
+  "Platelets": {
+    "standard_name": "Platelets",
+    "aliases": ["PLT", "Platelet Count", "Platelets", "Thrombocytes"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["/cmm", "uL", "x10^9/L"],
+    "ocr_variants": ["PL T", "PLT.", "Plts", "PlateIet Count", "PIatelets", "Platelet C0unt", "PLTs"]
+  },
+  "Hematocrit": {
+    "standard_name": "Hematocrit",
+    "aliases": ["Hematocrit", "HCT", "PCV"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["%", "L/L"],
+    "ocr_variants": ["Hemat0crit", "HCT.", "P.C.V."]
+  },
+  "MCV": {
+    "standard_name": "MCV",
+    "aliases": ["MCV", "Mean Corpuscular Volume"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["fL"],
+    "ocr_variants": ["M.C.V."]
+  },
+  "MCH": {
+    "standard_name": "MCH",
+    "aliases": ["MCH", "Mean Corpuscular Hemoglobin"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["pg"],
+    "ocr_variants": ["M.C.H."]
+  },
+  "MCHC": {
+    "standard_name": "MCHC",
+    "aliases": ["MCHC", "Mean Corpuscular Hemoglobin Concentration"],
+    "category": "Hematology",
+    "report_types": ["CBC", "Complete Blood Count"],
+    "common_units": ["g/dL", "g/L"],
+    "ocr_variants": ["M.C.H.C."]
+  },
+  "ESR": {
+    "standard_name": "ESR",
+    "aliases": ["ESR", "Erythrocyte Sedimentation Rate"],
+    "category": "Hematology",
+    "report_types": ["Inflammation"],
+    "common_units": ["mm/hr"],
+    "ocr_variants": ["E.S.R."]
+  },
+  "Glucose": {
+    "standard_name": "Glucose",
+    "aliases": ["Glucose", "GIucose", "Sugar"],
+    "category": "Diabetes",
+    "report_types": ["Blood Sugar"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["GIucose"]
+  },
+  "Fasting Blood Sugar": {
+    "standard_name": "Fasting Blood Sugar",
+    "aliases": ["FBS", "Fasting Blood Sugar", "Glucose Fasting", "Fasting Glucose", "GIucose Fasting"],
+    "category": "Diabetes",
+    "report_types": ["Blood Sugar", "FBS"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["F.B.S.", "GIucose Fasting", "Glucose F"]
+  },
+  "Random Blood Sugar": {
+    "standard_name": "Random Blood Sugar",
+    "aliases": ["RBS", "Random Blood Sugar", "Glucose Random", "Random Glucose"],
+    "category": "Diabetes",
+    "report_types": ["Blood Sugar", "RBS"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["R.B.S.", "Glucose R"]
+  },
+  "HbA1c": {
+    "standard_name": "HbA1c",
+    "aliases": ["HbA1c", "A1c", "Glycated Hemoglobin", "Glycosylated Hemoglobin"],
+    "category": "Diabetes",
+    "report_types": ["Blood Sugar", "HbA1c"],
+    "common_units": ["%", "mmol/mol"],
+    "ocr_variants": ["Hba1c", "HbA1c"]
+  },
+  "Cholesterol": {
+    "standard_name": "Cholesterol",
+    "aliases": ["Cholesterol", "Total Cholesterol"],
+    "category": "Lipid",
+    "report_types": ["Lipid Profile"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["Total CholesteroI", "Total ChoIesterol", "Total Cholester0I", "Total Ch0Iester0l", "TotaI ChoIesterol", "Chol."]
+  },
+  "Triglycerides": {
+    "standard_name": "Triglycerides",
+    "aliases": ["Triglycerides", "TG"],
+    "category": "Lipid",
+    "report_types": ["Lipid Profile"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["TrigIycerides", "TriGlycerides", "Trig"]
+  },
+  "LDL": {
+    "standard_name": "LDL",
+    "aliases": ["LDL", "LDL Cholesterol", "LDL-C", "Low Density Lipoprotein"],
+    "category": "Lipid",
+    "report_types": ["Lipid Profile"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["L.D.L.", "LDL-C"]
+  },
+  "HDL": {
+    "standard_name": "HDL",
+    "aliases": ["HDL", "HDL Cholesterol", "HDL-C", "High Density Lipoprotein"],
+    "category": "Lipid",
+    "report_types": ["Lipid Profile"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["H.D.L.", "HDL-C"]
+  },
+  "VLDL": {
+    "standard_name": "VLDL",
+    "aliases": ["VLDL", "VLDL Cholesterol", "Very Low Density Lipoprotein"],
+    "category": "Lipid",
+    "report_types": ["Lipid Profile"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["V.L.D.L."]
+  },
+  "Creatinine": {
+    "standard_name": "Creatinine",
+    "aliases": ["Creatinine", "Serum Creatinine", "S. Creatinine"],
+    "category": "Renal",
+    "report_types": ["Kidney Function Test", "KFT", "RFT"],
+    "common_units": ["mg/dL", "umol/L"],
+    "ocr_variants": ["Creat", "Crea", "Cr", "Creat."]
+  },
+  "Urea": {
+    "standard_name": "Urea",
+    "aliases": ["Urea", "Blood Urea", "Serum Urea"],
+    "category": "Renal",
+    "report_types": ["Kidney Function Test", "KFT", "RFT"],
+    "common_units": ["mg/dL", "mmol/L"],
+    "ocr_variants": ["Urea N"]
+  },
+  "BUN": {
+    "standard_name": "BUN",
+    "aliases": ["BUN", "Blood Urea Nitrogen"],
+    "category": "Renal",
+    "report_types": ["Kidney Function Test", "KFT", "RFT"],
+    "common_units": ["mg/dL"],
+    "ocr_variants": ["B.U.N."]
+  },
+  "Uric Acid": {
+    "standard_name": "Uric Acid",
+    "aliases": ["Uric Acid", "Serum Uric Acid", "Acid Uric"],
+    "category": "Renal",
+    "report_types": ["Kidney Function Test", "KFT", "RFT"],
+    "common_units": ["mg/dL", "umol/L"],
+    "ocr_variants": []
+  },
+  "Bilirubin Total": {
+    "standard_name": "Bilirubin Total",
+    "aliases": ["Bilirubin Total", "Total Bilirubin", "Bilirubin T", "S. Bilirubin Total"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["mg/dL", "umol/L"],
+    "ocr_variants": ["T Bilirubin", "Total Bili"]
+  },
+  "ALT": {
+    "standard_name": "ALT",
+    "aliases": ["ALT", "SGPT", "Alanine Aminotransferase"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["U/L"],
+    "ocr_variants": ["A.L.T.", "S.G.P.T.", "Alanine Amin0transferase", "AIanine Amin0transferase", "AIanine Aminotransferase"]
+  },
+  "AST": {
+    "standard_name": "AST",
+    "aliases": ["AST", "SGOT", "Aspartate Aminotransferase"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["U/L"],
+    "ocr_variants": ["A.S.T.", "S.G.O.T."]
+  },
+  "ALP": {
+    "standard_name": "ALP",
+    "aliases": ["ALP", "Alkaline Phosphatase"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["U/L"],
+    "ocr_variants": ["A.L.P."]
+  },
+  "GGT": {
+    "standard_name": "GGT",
+    "aliases": ["GGT", "Gamma Glutamyl Transferase", "Gamma-GT"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["U/L"],
+    "ocr_variants": ["G.G.T."]
+  },
+  "Albumin": {
+    "standard_name": "Albumin",
+    "aliases": ["Albumin", "Serum Albumin"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["g/dL", "g/L"],
+    "ocr_variants": ["Alb"]
+  },
+  "Total Protein": {
+    "standard_name": "Total Protein",
+    "aliases": ["Total Protein", "Protein Total", "Serum Total Protein"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["g/dL", "g/L"],
+    "ocr_variants": []
+  },
+  "TSH": {
+    "standard_name": "TSH",
+    "aliases": ["Thyroid Stimulating Hormone", "TSH", "Serum TSH"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": ["mIU/L", "uIU/mL"],
+    "ocr_variants": ["T.S.H.", "Thyroid StimuIating H0rmone"]
+  },
+  "T3": {
+    "standard_name": "T3",
+    "aliases": ["T3", "Triiodothyronine", "Total T3"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": ["ng/dL", "nmol/L"],
+    "ocr_variants": ["T 3"]
+  },
+  "T4": {
+    "standard_name": "T4",
+    "aliases": ["T4", "Thyroxine", "Total T4"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": ["ug/dL", "nmol/L"],
+    "ocr_variants": ["T 4"]
+  },
+  "Free T3": {
+    "standard_name": "Free T3",
+    "aliases": ["Free T3", "FT3", "Serum Free T3"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": ["pg/mL", "pmol/L"],
+    "ocr_variants": ["F.T.3.", "FT 3"]
+  },
+  "Free T4": {
+    "standard_name": "Free T4",
+    "aliases": ["Free T4", "FT4", "Serum Free T4"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": ["ng/dL", "pmol/L"],
+    "ocr_variants": ["F.T.4.", "FT 4"]
+  },
+  "Vitamin D": {
+    "standard_name": "Vitamin D",
+    "aliases": ["Vitamin D", "25-OH Vitamin D", "Cholecalciferol"],
+    "category": "Vitamins",
+    "report_types": ["Vitamin Profile"],
+    "common_units": ["ng/mL", "nmol/L"],
+    "ocr_variants": ["Vit D", "25-hydroxy Vitamin D"]
+  },
+  "Vitamin B12": {
+    "standard_name": "Vitamin B12",
+    "aliases": ["Vitamin B12", "Cyanocobalamin"],
+    "category": "Vitamins",
+    "report_types": ["Vitamin Profile"],
+    "common_units": ["pg/mL", "pmol/L"],
+    "ocr_variants": ["Vit B12"]
+  },
+  "CRP": {
+    "standard_name": "CRP",
+    "aliases": ["CRP", "C-Reactive Protein", "High Sensitivity CRP"],
+    "category": "Inflammation",
+    "report_types": ["Inflammation"],
+    "common_units": ["mg/L"],
+    "ocr_variants": ["C-RP"]
+  },
+  "Sodium": {
+    "standard_name": "Sodium",
+    "aliases": ["Sodium", "Na", "Serum Sodium"],
+    "category": "Electrolytes",
+    "report_types": ["Electrolyte Profile"],
+    "common_units": ["mmol/L", "mEq/L"],
+    "ocr_variants": []
+  },
+  "Potassium": {
+    "standard_name": "Potassium",
+    "aliases": ["Potassium", "K", "Serum Potassium"],
+    "category": "Electrolytes",
+    "report_types": ["Electrolyte Profile"],
+    "common_units": ["mmol/L", "mEq/L"],
+    "ocr_variants": []
+  },
+  "Chloride": {
+    "standard_name": "Chloride",
+    "aliases": ["Chloride", "Cl", "Serum Chloride"],
+    "category": "Electrolytes",
+    "report_types": ["Electrolyte Profile"],
+    "common_units": ["mmol/L", "mEq/L"],
+    "ocr_variants": ["ChI0ride"]
+  },
+  "Dengue NS1 Antigen": {
+    "standard_name": "Dengue NS1 Antigen",
+    "aliases": ["Dengue NS1", "NS1 Antigen"],
+    "category": "Infection",
+    "report_types": ["Dengue"],
+    "common_units": ["", "index"],
+    "ocr_variants": ["Dengue NSl"]
+  },
+  "Dengue IgM Antibody": {
+    "standard_name": "Dengue IgM Antibody",
+    "aliases": ["Dengue IgM", "IgM Antibody"],
+    "category": "Infection",
+    "report_types": ["Dengue"],
+    "common_units": ["", "index"],
+    "ocr_variants": []
+  },
+  "Dengue IgG Antibody": {
+    "standard_name": "Dengue IgG Antibody",
+    "aliases": ["Dengue IgG", "IgG Antibody"],
+    "category": "Infection",
+    "report_types": ["Dengue"],
+    "common_units": ["", "index"],
+    "ocr_variants": []
+  },
+  "Malaria Parasite": {
+    "standard_name": "Malaria Parasite",
+    "aliases": ["Malaria Parasite", "MP", "Peripheral Smear for MP"],
+    "category": "Infection",
+    "report_types": ["Malaria"],
+    "common_units": ["", ""],
+    "ocr_variants": ["Malaria P"]
+  },
+  "Typhoid (Widal)": {
+    "standard_name": "Typhoid (Widal)",
+    "aliases": ["Typhoid", "Widal Test", "Salmonella typhi O", "Salmonella typhi H"],
+    "category": "Infection",
+    "report_types": ["Typhoid"],
+    "common_units": ["", ""],
+    "ocr_variants": ["Widal"]
+  },
+  "Urine Protein": {
+    "standard_name": "Urine Protein",
+    "aliases": ["Urine Protein", "Protein", "Albumin Urine"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["mg/dL", ""],
+    "ocr_variants": []
+  },
+  "Urine Glucose": {
+    "standard_name": "Urine Glucose",
+    "aliases": ["Urine Glucose", "Glucose", "Sugar Urine"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["mg/dL", ""],
+    "ocr_variants": []
+  },
+  "Urine Ketones": {
+    "standard_name": "Urine Ketones",
+    "aliases": ["Urine Ketones", "Ketones", "Ketone Bodies", "Urine Ketone"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["mg/dL", ""],
+    "ocr_variants": []
+  },
+  "Pus Cells": {
+    "standard_name": "Pus Cells",
+    "aliases": ["Pus Cells", "Pus Cell", "WBC Urine", "White Blood Cells Urine"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["/HPF", ""],
+    "ocr_variants": []
+  },
+  "Urine RBC": {
+    "standard_name": "Urine RBC",
+    "aliases": ["Urine RBC", "RBC Urine", "Red Blood Cells Urine", "Blood Urine"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["/HPF", ""],
+    "ocr_variants": []
+  },
+  "Epithelial Cells": {
+    "standard_name": "Epithelial Cells",
+    "aliases": ["Epithelial Cells", "Epithelial Cell", "Epi Cells"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["/HPF", ""],
+    "ocr_variants": []
+  },
+  "Nitrite": {
+    "standard_name": "Nitrite",
+    "aliases": ["Nitrite", "Urine Nitrite"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["", "mg/dL"],
+    "ocr_variants": []
+  },
+  "Leukocyte Esterase": {
+    "standard_name": "Leukocyte Esterase",
+    "aliases": ["Leukocyte Esterase", "Leukocytes Urine", "Urine Leukocytes"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": ["", "/HPF"],
+    "ocr_variants": []
+  },
+  "Specific Gravity": {
+    "standard_name": "Specific Gravity",
+    "aliases": ["Specific Gravity", "S.G.", "Sp. Gravity"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": [""],
+    "ocr_variants": ["S.G"]
+  },
+  "pH": {
+    "standard_name": "pH",
+    "aliases": ["pH", "Urine pH"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": [""],
+    "ocr_variants": []
+  },
+  "CBC Profile": {
+    "standard_name": "CBC Profile",
+    "aliases": ["CBC", "Complete Blood Count", "Full Blood Count"],
+    "category": "Hematology",
+    "report_types": ["CBC"],
+    "common_units": [],
+    "ocr_variants": ["C.B.C.", "FBC"]
+  },
+  "Kidney Function Test": {
+    "standard_name": "Kidney Function Test",
+    "aliases": ["KFT", "RFT", "Renal Function Test"],
+    "category": "Renal",
+    "report_types": ["KFT", "RFT"],
+    "common_units": [],
+    "ocr_variants": ["K.F.T.", "R.F.T."]
+  },
+  "Liver Function Test": {
+    "standard_name": "Liver Function Test",
+    "aliases": ["LFT", "Hepatic Function Test"],
+    "category": "Liver",
+    "report_types": ["LFT"],
+    "common_units": [],
+    "ocr_variants": ["L.F.T."]
+  },
+  "Thyroid Profile": {
+    "standard_name": "Thyroid Profile",
+    "aliases": ["Thyroid Profile", "Thyroid Function Test"],
+    "category": "Thyroid",
+    "report_types": ["Thyroid Profile"],
+    "common_units": [],
+    "ocr_variants": []
+  },
+  "Urine Test": {
+    "standard_name": "Urine Test",
+    "aliases": ["Urine Test", "Urinalysis", "Routine Urine Examination"],
+    "category": "Urine",
+    "report_types": ["Urine Report"],
+    "common_units": [],
+    "ocr_variants": ["Urine Exam"]
+  },
+  "General Test Name": {
+    "standard_name": "Test Name",
+    "aliases": ["Test", "Parameter", "Investigation"],
+    "category": "Generic",
+    "report_types": [],
+    "common_units": [],
+    "ocr_variants": []
+  },
+  "Result Value": {
+    "standard_name": "Result Value",
+    "aliases": ["Result", "Observed Value", "Value"],
+    "category": "Generic",
+    "report_types": [],
+    "common_units": [],
+    "ocr_variants": []
+  },
+  "Unit": {
+    "standard_name": "Unit",
+    "aliases": ["Unit"],
+    "category": "Generic",
+    "report_types": [],
+    "common_units": [],
+    "ocr_variants": ["Units"]
+  },
+  "Troponin I": {
+    "standard_name": "Troponin I",
+    "aliases": ["Troponin I", "cTnI", "Cardiac Troponin I"],
+    "category": "Cardiac",
+    "report_types": ["Cardiac Panel"],
+    "common_units": ["ng/mL", "ug/L"],
+    "ocr_variants": ["Troponin I", "Troponin-I"]
+  },
+  "CK-MB": {
+    "standard_name": "CK-MB",
+    "aliases": ["CK-MB", "CKMB", "Creatine Kinase-MB"],
+    "category": "Cardiac",
+    "report_types": ["General Lab Report"],
+    "common_units": ["ng/mL", "U/L"],
+    "ocr_variants": ["CK-MB", "CKMB"]
+  },
+  "BNP": {
+    "standard_name": "BNP",
+    "aliases": ["BNP", "B-type Natriuretic Peptide"],
+    "category": "Cardiac",
+    "report_types": ["General Lab Report"],
+    "common_units": ["pg/mL"],
+    "ocr_variants": []
+  },
+  "LDH": {
+    "standard_name": "LDH",
+    "aliases": ["LDH", "Lactate Dehydrogenase"],
+    "category": "Enzymes",
+    "report_types": ["General Lab Report"],
+    "common_units": ["U/L"],
+    "ocr_variants": []
+  },
+  "Bilirubin Direct": {
+    "standard_name": "Bilirubin Direct",
+    "aliases": ["Bilirubin Direct", "Direct Bilirubin", "S. Bilirubin Direct", "BiIirubin Direct"],
+    "category": "Liver",
+    "report_types": ["Liver Function Test", "LFT"],
+    "common_units": ["mg/dL", "umol/L"],
+    "ocr_variants": ["Direct Bili", "BiIirubin Direct"]
+  },
+  "eGFR": {
+    "standard_name": "eGFR",
+    "aliases": ["eGFR", "Estimated Glomerular Filtration Rate"],
+    "category": "Renal",
+    "report_types": ["Kidney Function Test", "KFT", "RFT"],
+    "common_units": ["mL/min/1.73m2"],
+    "ocr_variants": ["eGFR"]
+  },
+  "Neutrophils": {
+    "standard_name": "Neutrophils",
+    "aliases": ["Neutrophils", "Neutrophil", "NEUT"],
+    "category": "Hematology",
+    "report_types": ["CBC"],
+    "common_units": ["%"],
+    "ocr_variants": ["NeutrophiIs", "Neutrophils", "NEUT."]
+  },
+  "Reference Range Field": {
+    "standard_name": "Reference Range Field",
+    "aliases": ["Reference Range", "Normal Range", "Biological Ref Interval", "Range"],
+    "category": "Generic",
+    "report_types": [],
+    "common_units": [],
+    "ocr_variants": ["Ref. Range", "Normal Limits", "Ref Range"]
+  }
+}

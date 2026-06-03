@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0117",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "LifeScan Center\n\nREPORT: Cardiac Markers\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTroponin I             0.0        ng/L       0-0.04\nCK-MB                  22.33                 0-0\nBNP                    37.58                 0-0\nLDH                    17.24                 0-0",
+  "text_noisy": "LifeScan Center\n\nREPORT: Cardiac Markers\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTroponin I             0.0        ng/L       0-0.04\nCK-MB                  22.33                 0-0\nBNP                    37.58                 0-0\nLDH                    17.24                 0-0",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.0,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "Normal",
+      "span_text": "Troponin I             0.0        ng/L       0-0.04"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 22.33,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB                  22.33                 0-0"
+    },
+    {
+      "test_name": "BNP",
+      "value": 37.58,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP                    37.58                 0-0"
+    },
+    {
+      "test_name": "LDH",
+      "value": 17.24,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH                    17.24                 0-0"
+    }
+  ]
+}

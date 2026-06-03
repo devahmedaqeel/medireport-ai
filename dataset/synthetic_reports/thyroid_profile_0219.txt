@@ -1,0 +1,8 @@
+City Clinical Laboratory
+
+REPORT: Thyroid Profile
+Serum TSH: 0.98 mIU/L [Ref: 0.4-4.0]
+T3: 39.27  [Ref: 0-0]
+T4: 3.12  [Ref: 0-0]
+Free T3: 27.68  [Ref: 0-0]
+Free T4: 16.25  [Ref: 0-0]

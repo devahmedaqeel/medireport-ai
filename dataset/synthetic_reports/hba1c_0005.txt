@@ -1,0 +1,4 @@
+City Clinical Laboratory
+
+REPORT: HbA1c
+HbA1c: 37.14  [Ref: 0-0]

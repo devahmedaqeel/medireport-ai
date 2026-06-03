@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0036",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "LifeScan Center\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             10.72      g/dL       12.0-17.0\nTotal Leukocyte Count  1787.32    /cmm       4000-11000\nRed Blood Cells        9.3                   0-0\nPlatelets              183893.61  /cmm       150000-450000\nHematocrit             5.75                  0-0\nMCV                    6.4                   0-0\nMCH                    30.17                 0-0\nMCHC                   47.17                 0-0\nRDW                    31.68                 0-0\nNeutrophils            476.68                0-0\nLymphocytes            28.11                 0-0",
+  "text_noisy": "LifeScan Center\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHem0globin             10.72      g/dL       I2 O-17.0\nTotal Leuk0cyte Count  I787 32    /cmm       4O0O-I100O\nRed Blood Cells        9.3                   0-0\nPIatelets              183893.61  /cmm       1500OO-450O00\nHematocrit             5.75                  0-O\nMCV                    6.4                   0-0\nMCH                    30 17                 0-0\nMCHC                   47.17                 0-0\nRDW                    3I 68                 0-0\nNeutrophils            476.68                O-0\nLymphocytes            28 1I                 O-O",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 10.72,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Low",
+      "span_text": "Hemoglobin             10.72      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 1787.32,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Low",
+      "span_text": "Total Leukocyte Count  1787.32    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 9.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        9.3                   0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 183893.61,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelets              183893.61  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 5.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             5.75                  0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 6.4,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    6.4                   0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 30.17,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    30.17                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 47.17,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   47.17                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 31.68,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    31.68                 0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 476.68,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            476.68                0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 28.11,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            28.11                 0-0"
+    }
+  ]
+}

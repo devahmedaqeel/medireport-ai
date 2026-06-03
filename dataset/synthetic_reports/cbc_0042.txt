@@ -1,0 +1,14 @@
+Metro Healthcare
+
+REPORT: CBC
+Hemoglobin 27.46 g/dL 12.0 - 17.0
+White Blood Cells 12688.51 /cmm 4000 - 11000
+Red Blood Cells 16.53  0 - 0
+PLT 340002.06 /cmm 150000 - 450000
+Hematocrit 26.0  0 - 0
+MCV 107.17  0 - 0
+MCH 5.51  0 - 0
+MCHC 14.53  0 - 0
+RDW 4.42  0 - 0
+Neutrophils 34.9  0 - 0
+Lymphocytes 1.86  0 - 0

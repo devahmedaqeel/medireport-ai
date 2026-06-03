@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0107",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Global MedLabs\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 0.28       mIU/L      0.4-4.0\nT3                     84.94                 0-0\nT4                     85.71                 0-0\nFree T3                32.76                 0-0\nFree T4                4.32                  0-0",
+  "text_noisy": "GI0bal MedLabs\n\nREPORT: Thyr0id Pr0file\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyr0id Stimulating Hormone 0.28       mIU/L      0 4-4.0\nT3                     84.94                 O-0\nT4                     85.71                 O-0\nFree T3                32.76                 O-0\nFree T4                4 32                  0-0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 0.28,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Low",
+      "span_text": "Thyroid Stimulating Hormone 0.28       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 84.94,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     84.94                 0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 85.71,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     85.71                 0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 32.76,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                32.76                 0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 4.32,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                4.32                  0-0"
+    }
+  ]
+}

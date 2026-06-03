@@ -1,0 +1,11 @@
+City Clinical Laboratory
+
+REPORT: Kidney Function Test
+Creatinine: 0.61 mg/dL [Ref: 0.6-1.3]
+Urea: 324.79  [Ref: 0-0]
+BUN: 3.57  [Ref: 0-0]
+Uric Acid: 26.95  [Ref: 0-0]
+eGFR: 39.15  [Ref: 0-0]
+Sodium: 39.51  [Ref: 0-0]
+Potassium: 55.64  [Ref: 0-0]
+Chloride: 6.22  [Ref: 0-0]

@@ -1,0 +1,12 @@
+City Clinical Laboratory
+
+REPORT: Liver Function Test
+Alanine Aminotransferase: 68.42 U/L [Ref: 7-56]
+AST: 48.65  [Ref: 0-0]
+ALP: 11.65  [Ref: 0-0]
+Bilirubin Total: 91.5  [Ref: 0-0]
+Bilirubin Direct: 40.15  [Ref: 0-0]
+Bilirubin Indirect: 34.48  [Ref: 0-0]
+Albumin: 66.82  [Ref: 0-0]
+Total Protein: 64.53  [Ref: 0-0]
+GGT: 6.11  [Ref: 0-0]

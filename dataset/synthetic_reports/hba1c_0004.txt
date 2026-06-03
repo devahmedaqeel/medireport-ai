@@ -1,0 +1,4 @@
+LifeScan Center
+
+REPORT: HbA1c
+HbA1c: 6.86  [Ref: 0-0]

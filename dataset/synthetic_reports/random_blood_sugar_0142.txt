@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Random Blood Sugar
+Random Blood Sugar: 24.9  [Ref: 0-0]

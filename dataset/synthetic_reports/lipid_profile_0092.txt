@@ -1,0 +1,10 @@
+Prime Diagnostics
+
+REPORT: Lipid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Total Cholesterol      37.35                 0-0
+LDL                    25.26                 0-0
+HDL                    1.76                  0-0
+VLDL                   113.09                0-0
+Triglycerides          111.21                0-0
+Cholesterol/HDL Ratio  172.54                0-0

@@ -1,0 +1,9 @@
+City Clinical Laboratory
+
+REPORT: Lipid Profile
+Total Cholesterol 302.65  0 - 0
+LDL 5.13  0 - 0
+HDL 108.32  0 - 0
+VLDL 89.54  0 - 0
+Triglycerides 13.78  0 - 0
+Cholesterol/HDL Ratio 35.36  0 - 0

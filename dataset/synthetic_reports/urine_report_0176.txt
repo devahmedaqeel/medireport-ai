@@ -1,0 +1,13 @@
+LifeScan Center
+
+REPORT: Urine Report
+Urine Protein: 36.66  [Ref: 0-0]
+Urine Glucose: 11.96  [Ref: 0-0]
+Urine Ketones: 5.83  [Ref: 0-0]
+Pus Cells: 33.08  [Ref: 0-0]
+Urine RBC: 19.61  [Ref: 0-0]
+Epithelial Cells: 85.1  [Ref: 0-0]
+Nitrite: 12.75  [Ref: 0-0]
+Leukocyte Esterase: 1.74  [Ref: 0-0]
+Specific Gravity: 15.97  [Ref: 0-0]
+pH: 29.98  [Ref: 0-0]

@@ -1,0 +1,8 @@
+Metro Healthcare
+
+REPORT: Thyroid Profile
+Serum TSH 2.8 mIU/L 0.4 - 4.0
+T3 39.34  0 - 0
+T4 6.05  0 - 0
+Free T3 89.02  0 - 0
+Free T4 4.73  0 - 0

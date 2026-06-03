@@ -1,0 +1,14 @@
+Prime Diagnostics
+
+REPORT: Urine Report
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Urine Protein          0.62                  0-0
+Urine Glucose          26.0                  0-0
+Urine Ketones          31.11                 0-0
+Pus Cells              85.29                 0-0
+Urine RBC              20.46                 0-0
+Epithelial Cells       121.0                 0-0
+Nitrite                32.37                 0-0
+Leukocyte Esterase     3.02                  0-0
+Specific Gravity       1.51                  0-0
+pH                     4.35                  0-0

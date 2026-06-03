@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0035",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "Prime Diagnostics\n\nREPORT: HbA1c\nHbA1c 100.46  0 - 0",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: HbA1c\nHbA1c 100.46  0 - 0",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 100.46,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c 100.46  0 - 0"
+    }
+  ]
+}

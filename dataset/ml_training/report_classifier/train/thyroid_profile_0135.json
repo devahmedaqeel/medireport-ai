@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0135",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Thyroid Profile\nSerum TSH: 3.3 mIU/L [Ref: 0.4-4.0]\nT3: 10.3  [Ref: 0-0]\nT4: 91.7  [Ref: 0-0]\nFree T3: 23.83  [Ref: 0-0]\nFree T4: 5.46  [Ref: 0-0]",
+  "text_noisy": "Prime Diagn0stics\n\nREPORT: Thyroid Pr0fiIe\nSerum TSH: 3 3 mIU/L [Ref: 0 4-4.0]\nT3: 10.3  [Ref: 0-0]\nT4: 91.7  [Ref: 0-0]\nFree T3: 23.83  [Ref: 0-0]\nFree T4: 5 46  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 3.3,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "Serum TSH: 3.3 mIU/L [Ref: 0.4-4.0]"
+    },
+    {
+      "test_name": "T3",
+      "value": 10.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3: 10.3  [Ref: 0-0]"
+    },
+    {
+      "test_name": "T4",
+      "value": 91.7,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4: 91.7  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 23.83,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3: 23.83  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 5.46,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4: 5.46  [Ref: 0-0]"
+    }
+  ]
+}

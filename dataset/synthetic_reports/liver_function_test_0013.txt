@@ -1,0 +1,13 @@
+LifeScan Center
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Alanine Aminotransferase 119.81     U/L        7-56
+AST                    1.0                   0-0
+ALP                    93.34                 0-0
+Bilirubin Total        12.33                 0-0
+Bilirubin Direct       115.79                0-0
+Bilirubin Indirect     0.67                  0-0
+Albumin                3.85                  0-0
+Total Protein          26.16                 0-0
+GGT                    7.7                   0-0

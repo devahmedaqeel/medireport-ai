@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0083",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    16.93      g/dL       12.0-17.0\nTLC                    6561.04    /cmm       4000-11000\nRed Blood Cells        6.86                  0-0\nPlatelets              158735.23  /cmm       150000-450000\nHematocrit             30.1                  0-0\nMCV                    122.91                0-0\nMCH                    49.44                 0-0\nMCHC                   16.64                 0-0\nRDW                    408.53                0-0\nNeutrophils            8.96                  0-0\nLymphocytes            102.68                0-0",
+  "text_noisy": "City CIinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    I6 93      g/dL       12.O-17 O\nTLC                    656I.04    /cmm       4000-I10OO\nRed Bl00d Cells        6 86                  0-O\nPlatelets              158735 23  /cmm       I5O0OO-45000O\nHematocrit             3O.1                  0-O\nMCV                    I22 9I                0-0\nMCH                    49.44                 0-0\nMCHC                   16 64                 O-0\nRDW                    408.53                0-0\nNeutrophiIs            8 96                  O-0\nLymph0cytes            1O2.68                0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 16.93,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Normal",
+      "span_text": "HGB                    16.93      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 6561.04,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "TLC                    6561.04    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 6.86,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        6.86                  0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 158735.23,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelets              158735.23  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 30.1,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             30.1                  0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 122.91,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    122.91                0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 49.44,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    49.44                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 16.64,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   16.64                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 408.53,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    408.53                0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 8.96,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            8.96                  0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 102.68,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            102.68                0-0"
+    }
+  ]
+}

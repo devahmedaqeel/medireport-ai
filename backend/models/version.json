@@ -1,0 +1,11 @@
+{
+  "current_parser_version": "1.1.0",
+  "last_training_date": "2026-06-02",
+  "training_samples": 0,
+  "validation_accuracy": 0.0,
+  "status": "active",
+  "report_classifier_accuracy": 0.0,
+  "trained_on_synthetic_reports": 3000,
+  "hybrid_accuracy": 0.02,
+  "ner_available": true
+}

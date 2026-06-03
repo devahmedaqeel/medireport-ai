@@ -1,0 +1,9 @@
+Prime Diagnostics
+
+REPORT: Lipid Profile
+Total Cholesterol 39.15  0 - 0
+LDL 45.79  0 - 0
+HDL 18.36  0 - 0
+VLDL 0.74  0 - 0
+Triglycerides 4.05  0 - 0
+Cholesterol/HDL Ratio 17.89  0 - 0

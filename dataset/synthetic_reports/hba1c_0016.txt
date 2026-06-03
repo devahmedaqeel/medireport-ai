@@ -1,0 +1,5 @@
+City Clinical Laboratory
+
+REPORT: HbA1c
+INVESTIGATION          RESULT      UNIT      REFERENCE
+HbA1c                  23.15                 0-0

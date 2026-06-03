@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Fasting Blood Sugar
+Fasting Blood Sugar: 1.3  [Ref: 0-0]

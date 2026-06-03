@@ -1,0 +1,12 @@
+Prime Diagnostics
+
+REPORT: Kidney Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Creatinine             0.73       mg/dL      0.6-1.3
+Urea                   23.86                 0-0
+BUN                    414.29                0-0
+Uric Acid              7.31                  0-0
+eGFR                   39.21                 0-0
+Sodium                 101.87                0-0
+Potassium              78.84                 0-0
+Chloride               34.26                 0-0

@@ -1,0 +1,15 @@
+Global MedLabs
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+HGB                    29.38      g/dL       12.0-17.0
+White Blood Cells      12789.13   /cmm       4000-11000
+Red Blood Cells        3.48                  0-0
+PLT                    238100.25  /cmm       150000-450000
+Hematocrit             380.49                0-0
+MCV                    24.33                 0-0
+MCH                    7.27                  0-0
+MCHC                   45.38                 0-0
+RDW                    63.77                 0-0
+Neutrophils            80.46                 0-0
+Lymphocytes            19.81                 0-0

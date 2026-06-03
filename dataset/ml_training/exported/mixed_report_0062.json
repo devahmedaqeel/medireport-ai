@@ -1,0 +1,9 @@
+{
+  "report_id": "mixed_report_0062",
+  "source": "synthetic",
+  "report_type": "Mixed Report",
+  "category": "Mixed",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Mixed Report\n",
+  "text_noisy": "Prime Diagn0stics\n\nREPORT: Mixed Report\n",
+  "tests": []
+}

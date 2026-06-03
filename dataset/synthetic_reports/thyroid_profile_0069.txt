@@ -1,0 +1,9 @@
+Metro Healthcare
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Thyroid Stimulating Hormone 0.43       mIU/L      0.4-4.0
+T3                     21.03                 0-0
+T4                     21.01                 0-0
+Free T3                39.79                 0-0
+Free T4                46.64                 0-0

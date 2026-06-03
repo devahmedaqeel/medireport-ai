@@ -1,0 +1,14 @@
+Prime Diagnostics
+
+REPORT: CBC
+Haemoglobin: 12.67 g/dL [Ref: 12.0-17.0]
+White Blood Cells: 4976.09 /cmm [Ref: 4000-11000]
+Red Blood Cells: 31.06  [Ref: 0-0]
+Platelets: 423684.02 /cmm [Ref: 150000-450000]
+Hematocrit: 9.0  [Ref: 0-0]
+MCV: 49.99  [Ref: 0-0]
+MCH: 57.19  [Ref: 0-0]
+MCHC: 89.89  [Ref: 0-0]
+RDW: 5.26  [Ref: 0-0]
+Neutrophils: 1.25  [Ref: 0-0]
+Lymphocytes: 6.31  [Ref: 0-0]

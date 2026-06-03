@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0014",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: Random Blood Sugar\nRandom Blood Sugar 43.16  0 - 0",
+  "text_noisy": "GIobal MedLabs\n\nREPORT: Random Blood Sugar\nRandom BIood Sugar 43 16  O - 0",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 43.16,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar 43.16  0 - 0"
+    }
+  ]
+}

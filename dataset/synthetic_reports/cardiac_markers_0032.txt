@@ -1,0 +1,8 @@
+City Clinical Laboratory
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+cTnI                   0.06       ng/L       0-0.04
+CK-MB                  68.99                 0-0
+BNP                    10.76                 0-0
+LDH                    27.15                 0-0

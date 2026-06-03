@@ -1,0 +1,14 @@
+{
+  "report_id": "brainneurologytext_0015",
+  "source": "synthetic",
+  "report_type": "BrainNeurologyText",
+  "category": "Neurology",
+  "text_clean": "Metro Healthcare\n\nREPORT: BrainNeurologyText\nCATEGORY: Neurology\n\nFINDINGS:\nPatient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.\n\nIMPRESSION:\nFindings may indicate potential neurology concern. Recommend specialist review.\n",
+  "text_noisy": "Metr0 Healthcare\n\nREPORT: BrainNeur0l0gyText\nCATEGORY: Neur0I0gy\n\nFINDINGS:\nPatient presents with non-specific symptoms. BrainNeuroI0gyText reveals some abnormaIities in neurology structures.\n\nIMPRESSION:\nFindings may indicate p0tential neurol0gy concern  Rec0mmend speciaIist review \n",
+  "findings": "Patient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.",
+  "impression": "Findings may indicate potential neurology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0001",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: HbA1c\nHbA1c: 5.1  [Ref: 0-0]",
+  "text_noisy": "Global MedLabs\n\nREPORT: HbA1c\nHbA1c: 5.1  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 5.1,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c: 5.1  [Ref: 0-0]"
+    }
+  ]
+}

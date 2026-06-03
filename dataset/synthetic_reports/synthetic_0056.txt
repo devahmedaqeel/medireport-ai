@@ -1,0 +1,6 @@
+Demo Lab Report - CBC
+Patient: ANONYMIZED
+
+Hemoglobin: 18.1 g/dL Ref 13.0-17.0
+White Blood Cells: 14000 /cmm Ref 4000-11000
+Test Platelets Result 90000 Unit /cmm Range 150000 to 450000

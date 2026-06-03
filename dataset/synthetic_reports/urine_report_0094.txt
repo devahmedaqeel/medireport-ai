@@ -1,0 +1,13 @@
+Prime Diagnostics
+
+REPORT: Urine Report
+Urine Protein: 49.61  [Ref: 0-0]
+Urine Glucose: 7.81  [Ref: 0-0]
+Urine Ketones: 96.56  [Ref: 0-0]
+Pus Cells: 6.68  [Ref: 0-0]
+Urine RBC: 1.14  [Ref: 0-0]
+Epithelial Cells: 33.94  [Ref: 0-0]
+Nitrite: 33.06  [Ref: 0-0]
+Leukocyte Esterase: 6.74  [Ref: 0-0]
+Specific Gravity: 8.27  [Ref: 0-0]
+pH: 247.05  [Ref: 0-0]

@@ -1,0 +1,13 @@
+Prime Diagnostics
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+ALT                    6.26       U/L        7-56
+AST                    1.38                  0-0
+ALP                    37.23                 0-0
+Bilirubin Total        104.43                0-0
+Bilirubin Direct       43.46                 0-0
+Bilirubin Indirect     21.09                 0-0
+Albumin                10.65                 0-0
+Total Protein          32.6                  0-0
+GGT                    73.31                 0-0

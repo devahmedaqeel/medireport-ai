@@ -1,0 +1,12 @@
+Prime Diagnostics
+
+REPORT: Liver Function Test
+ALT 279.55 U/L 7 - 56
+AST 56.05  0 - 0
+ALP 104.97  0 - 0
+Bilirubin Total 6.62  0 - 0
+Bilirubin Direct 4.29  0 - 0
+Bilirubin Indirect 43.33  0 - 0
+Albumin 20.07  0 - 0
+Total Protein 47.76  0 - 0
+GGT 92.72  0 - 0

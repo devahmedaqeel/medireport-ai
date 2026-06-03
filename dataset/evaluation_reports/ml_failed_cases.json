@@ -1,0 +1,44 @@
+[
+  {
+    "id": "brainneurologytext_0149",
+    "expected": "BrainNeurologyText",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected neurology, Got lft"
+  },
+  {
+    "id": "cbc_0205",
+    "expected": "CBC",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected cbc, Got lft"
+  },
+  {
+    "id": "fasting_blood_sugar_0059",
+    "expected": "Fasting Blood Sugar",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected sugar, Got lft"
+  },
+  {
+    "id": "fasting_blood_sugar_0107",
+    "expected": "Fasting Blood Sugar",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected sugar, Got lft"
+  },
+  {
+    "id": "fasting_blood_sugar_0112",
+    "expected": "Fasting Blood Sugar",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected sugar, Got lft"
+  },
+  {
+    "id": "fasting_blood_sugar_0145",
+    "expected": "Fasting Blood Sugar",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected sugar, Got lft"
+  },
+  {
+    "id": "pathologytext_0060",
+    "expected": "PathologyText",
+    "predicted": "Liver Function Test",
+    "reason": "Mismatched label: Expected pathology, Got lft"
+  }
+]

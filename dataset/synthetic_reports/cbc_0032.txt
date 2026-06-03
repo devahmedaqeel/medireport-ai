@@ -1,0 +1,14 @@
+LifeScan Center
+
+REPORT: CBC
+Hemoglobin: 5.7 g/dL [Ref: 12.0-17.0]
+WBC: 24396.91 /cmm [Ref: 4000-11000]
+Red Blood Cells: 5.16  [Ref: 0-0]
+Platelets: 277847.29 /cmm [Ref: 150000-450000]
+Hematocrit: 45.03  [Ref: 0-0]
+MCV: 70.04  [Ref: 0-0]
+MCH: 15.61  [Ref: 0-0]
+MCHC: 34.81  [Ref: 0-0]
+RDW: 17.41  [Ref: 0-0]
+Neutrophils: 32.73  [Ref: 0-0]
+Lymphocytes: 108.77  [Ref: 0-0]

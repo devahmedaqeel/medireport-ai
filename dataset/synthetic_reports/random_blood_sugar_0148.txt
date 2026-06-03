@@ -1,0 +1,5 @@
+LifeScan Center
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     7.58                  0-0

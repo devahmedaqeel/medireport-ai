@@ -1,0 +1,9 @@
+City Clinical Laboratory
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Thyroid Stimulating Hormone 3.88       mIU/L      0.4-4.0
+T3                     68.83                 0-0
+T4                     83.6                  0-0
+Free T3                18.11                 0-0
+Free T4                120.84                0-0

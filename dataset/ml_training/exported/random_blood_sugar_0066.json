@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0066",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: Random Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom Blood Sugar     6.62                  0-0",
+  "text_noisy": "Gl0bal MedLabs\n\nREPORT: Random Blo0d Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom BI0od Sugar     6.62                  O-0",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 6.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar     6.62                  0-0"
+    }
+  ]
+}

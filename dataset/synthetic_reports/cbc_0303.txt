@@ -1,0 +1,14 @@
+LifeScan Center
+
+REPORT: CBC
+Hemoglobin 8.72 g/dL 12.0 - 17.0
+White Blood Cells 20859.94 /cmm 4000 - 11000
+Red Blood Cells 39.64  0 - 0
+PLT 974841.67 /cmm 150000 - 450000
+Hematocrit 99.74  0 - 0
+MCV 67.63  0 - 0
+MCH 4.18  0 - 0
+MCHC 39.91  0 - 0
+RDW 83.36  0 - 0
+Neutrophils 40.35  0 - 0
+Lymphocytes 46.09  0 - 0

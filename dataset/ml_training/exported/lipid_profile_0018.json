@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0018",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Global MedLabs\n\nREPORT: Lipid Profile\nTotal Cholesterol 0.72  0 - 0\nLDL 75.51  0 - 0\nHDL 43.79  0 - 0\nVLDL 43.21  0 - 0\nTriglycerides 47.13  0 - 0\nCholesterol/HDL Ratio 23.62  0 - 0",
+  "text_noisy": "GI0bal MedLabs\n\nREPORT: Lipid Pr0file\nT0taI ChoIesterol O.72  0 - 0\nLDL 75.51  O - O\nHDL 43 79  0 - O\nVLDL 43.21  O - O\nTrigIycerides 47.I3  0 - 0\nChoIesterol/HDL Ratio 23 62  O - O",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 0.72,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol 0.72  0 - 0"
+    },
+    {
+      "test_name": "LDL",
+      "value": 75.51,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL 75.51  0 - 0"
+    },
+    {
+      "test_name": "HDL",
+      "value": 43.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL 43.79  0 - 0"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 43.21,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL 43.21  0 - 0"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 47.13,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides 47.13  0 - 0"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 23.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio 23.62  0 - 0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Metro Healthcare
+
+REPORT: Urine Report
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Urine Protein          8.18                  0-0
+Urine Glucose          5.87                  0-0
+Urine Ketones          99.84                 0-0
+Pus Cells              20.82                 0-0
+Urine RBC              17.74                 0-0
+Epithelial Cells       8.98                  0-0
+Nitrite                88.73                 0-0
+Leukocyte Esterase     286.25                0-0
+Specific Gravity       21.48                 0-0
+pH                     15.64                 0-0

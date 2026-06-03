@@ -1,0 +1,17 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+dist/
+build/
+.expo/
+.DS_Store
+*.sqlite
+*.db
+uploads/
+reports/
+backend/firebase-service-account.json
+backend/local_db/
+mobile-app/.env
+admin-panel/.env

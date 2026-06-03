@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0155",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Metro Healthcare\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 3.92       mIU/L      0.4-4.0\nT3                     13.79                 0-0\nT4                     1.3                   0-0\nFree T3                45.57                 0-0\nFree T4                53.53                 0-0",
+  "text_noisy": "Metro HeaIthcare\n\nREPORT: Thyr0id Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating H0rmone 3.92       mIU/L      0 4-4.O\nT3                     13 79                 0-0\nT4                     I.3                   O-0\nFree T3                45 57                 0-O\nFree T4                53 53                 O-O",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 3.92,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "Thyroid Stimulating Hormone 3.92       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 13.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     13.79                 0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 1.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     1.3                   0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 45.57,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                45.57                 0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 53.53,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                53.53                 0-0"
+    }
+  ]
+}

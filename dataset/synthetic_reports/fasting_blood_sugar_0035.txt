@@ -1,0 +1,4 @@
+City Clinical Laboratory
+
+REPORT: Fasting Blood Sugar
+Fasting Blood Sugar: 38.88  [Ref: 0-0]

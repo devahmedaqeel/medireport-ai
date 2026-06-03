@@ -1,0 +1,14 @@
+Metro Healthcare
+
+REPORT: CBC
+Hb 5.4 g/dL 12.0 - 17.0
+Total Leukocyte Count 22641.57 /cmm 4000 - 11000
+Red Blood Cells 7.49  0 - 0
+Platelets 161159.79 /cmm 150000 - 450000
+Hematocrit 3.37  0 - 0
+MCV 6.57  0 - 0
+MCH 39.28  0 - 0
+MCHC 21.74  0 - 0
+RDW 26.7  0 - 0
+Neutrophils 83.54  0 - 0
+Lymphocytes 104.53  0 - 0

@@ -1,0 +1,14 @@
+{
+  "report_id": "brainneurologytext_0027",
+  "source": "synthetic",
+  "report_type": "BrainNeurologyText",
+  "category": "Neurology",
+  "text_clean": "Prime Diagnostics\n\nREPORT: BrainNeurologyText\nCATEGORY: Neurology\n\nFINDINGS:\nPatient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.\n\nIMPRESSION:\nFindings may indicate potential neurology concern. Recommend specialist review.\n",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: BrainNeuroI0gyText\nCATEGORY: NeuroI0gy\n\nFINDINGS:\nPatient presents with n0n-specific symptoms  BrainNeur0IogyText reveaIs some abnormalities in neur0l0gy structures.\n\nIMPRESSION:\nFindings may indicate p0tential neuroIogy concern. Rec0mmend specialist review.\n",
+  "findings": "Patient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.",
+  "impression": "Findings may indicate potential neurology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

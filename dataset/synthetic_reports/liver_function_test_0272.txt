@@ -1,0 +1,13 @@
+Metro Healthcare
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+SGPT                   71.53      U/L        7-56
+AST                    6.76                  0-0
+ALP                    34.72                 0-0
+Bilirubin Total        63.03                 0-0
+Bilirubin Direct       6.99                  0-0
+Bilirubin Indirect     26.5                  0-0
+Albumin                19.29                 0-0
+Total Protein          5.72                  0-0
+GGT                    47.32                 0-0

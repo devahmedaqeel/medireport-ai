@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0140",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "LifeScan Center\n\nREPORT: Random Blood Sugar\nRandom Blood Sugar: 114.08  [Ref: 0-0]",
+  "text_noisy": "LifeScan Center\n\nREPORT: Random Bl00d Sugar\nRandom Blo0d Sugar: 1I4.08  [Ref: O-0]",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 114.08,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar: 114.08  [Ref: 0-0]"
+    }
+  ]
+}

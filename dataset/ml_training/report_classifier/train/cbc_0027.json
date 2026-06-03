@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0027",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "Global MedLabs\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             15.73      g/dL       12.0-17.0\nTLC                    4059.5     /cmm       4000-11000\nRed Blood Cells        8.34                  0-0\nPlatelets              1067436.99 /cmm       150000-450000\nHematocrit             12.21                 0-0\nMCV                    5.95                  0-0\nMCH                    21.46                 0-0\nMCHC                   16.41                 0-0\nRDW                    41.4                  0-0\nNeutrophils            86.16                 0-0\nLymphocytes            4.35                  0-0",
+  "text_noisy": "Global MedLabs\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             15.73      g/dL       12.0-17.0\nTLC                    4059.5     /cmm       4000-11000\nRed Blood Cells        8.34                  0-0\nPlatelets              1067436.99 /cmm       150000-450000\nHematocrit             12.21                 0-0\nMCV                    5.95                  0-0\nMCH                    21.46                 0-0\nMCHC                   16.41                 0-0\nRDW                    41.4                  0-0\nNeutrophils            86.16                 0-0\nLymphocytes            4.35                  0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 15.73,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Normal",
+      "span_text": "Hemoglobin             15.73      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 4059.5,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "TLC                    4059.5     /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 8.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        8.34                  0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 1067436.99,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "High",
+      "span_text": "Platelets              1067436.99 /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 12.21,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             12.21                 0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 5.95,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    5.95                  0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 21.46,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    21.46                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 16.41,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   16.41                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 41.4,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    41.4                  0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 86.16,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            86.16                 0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 4.35,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            4.35                  0-0"
+    }
+  ]
+}

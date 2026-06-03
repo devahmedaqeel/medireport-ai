@@ -1,0 +1,10 @@
+Global MedLabs
+
+REPORT: Lipid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Total Cholesterol      3.93                  0-0
+LDL                    9.38                  0-0
+HDL                    6.88                  0-0
+VLDL                   5.63                  0-0
+Triglycerides          7.36                  0-0
+Cholesterol/HDL Ratio  3.45                  0-0

@@ -1,0 +1,12 @@
+Metro Healthcare
+
+REPORT: Kidney Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Creatinine             1.1        mg/dL      0.6-1.3
+Urea                   4.17                  0-0
+BUN                    27.17                 0-0
+Uric Acid              17.04                 0-0
+eGFR                   37.86                 0-0
+Sodium                 119.8                 0-0
+Potassium              108.65                0-0
+Chloride               6.05                  0-0

@@ -1,0 +1,9 @@
+Prime Diagnostics
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Thyroid Stimulating Hormone 8.83       mIU/L      0.4-4.0
+T3                     97.2                  0-0
+T4                     6.12                  0-0
+Free T3                71.63                 0-0
+Free T4                162.98                0-0

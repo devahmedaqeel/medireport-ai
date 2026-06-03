@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0263",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 7.64       mIU/L      0.4-4.0\nT3                     3.43                  0-0\nT4                     33.29                 0-0\nFree T3                120.17                0-0\nFree T4                20.31                 0-0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 7.64       mIU/L      0.4-4.0\nT3                     3.43                  0-0\nT4                     33.29                 0-0\nFree T3                120.17                0-0\nFree T4                20.31                 0-0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 7.64,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "High",
+      "span_text": "Thyroid Stimulating Hormone 7.64       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 3.43,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     3.43                  0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 33.29,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     33.29                 0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 120.17,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                120.17                0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 20.31,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                20.31                 0-0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+LifeScan Center
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Troponin I             0.03       ng/L       0-0.04
+CK-MB                  98.97                 0-0
+BNP                    3.48                  0-0
+LDH                    3.11                  0-0

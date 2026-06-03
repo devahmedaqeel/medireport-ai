@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0008",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Random Blood Sugar\nRandom Blood Sugar 28.28  0 - 0",
+  "text_noisy": "Prime Diagn0stics\n\nREPORT: Rand0m Bl0od Sugar\nRandom Blo0d Sugar 28 28  O - O",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 28.28,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar 28.28  0 - 0"
+    }
+  ]
+}

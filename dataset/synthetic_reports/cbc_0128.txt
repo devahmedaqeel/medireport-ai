@@ -1,0 +1,14 @@
+City Clinical Laboratory
+
+REPORT: CBC
+Hemoglobin: 13.97 g/dL [Ref: 12.0-17.0]
+White Blood Cells: 18355.35 /cmm [Ref: 4000-11000]
+Red Blood Cells: 24.13  [Ref: 0-0]
+Platelet Count: 868739.54 /cmm [Ref: 150000-450000]
+Hematocrit: 3.83  [Ref: 0-0]
+MCV: 26.02  [Ref: 0-0]
+MCH: 32.13  [Ref: 0-0]
+MCHC: 8.43  [Ref: 0-0]
+RDW: 41.6  [Ref: 0-0]
+Neutrophils: 5.7  [Ref: 0-0]
+Lymphocytes: 118.33  [Ref: 0-0]

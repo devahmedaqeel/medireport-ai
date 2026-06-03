@@ -1,0 +1,5 @@
+Demo Lab Report - Blood Sugar
+Patient: ANONYMIZED
+
+Fasting Blood Sugar 126 mg/dL 70 - 100
+HbA1c: 5.2 % Ref 4.0-5.6

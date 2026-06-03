@@ -1,0 +1,9 @@
+LifeScan Center
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum TSH              8.35       mIU/L      0.4-4.0
+T3                     8.96                  0-0
+T4                     6.29                  0-0
+Free T3                24.21                 0-0
+Free T4                77.01                 0-0

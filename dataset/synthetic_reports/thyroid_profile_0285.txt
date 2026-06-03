@@ -1,0 +1,9 @@
+Metro Healthcare
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum TSH              3.41       mIU/L      0.4-4.0
+T3                     160.09                0-0
+T4                     61.4                  0-0
+Free T3                49.09                 0-0
+Free T4                56.28                 0-0

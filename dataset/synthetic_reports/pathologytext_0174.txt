@@ -1,0 +1,10 @@
+Metro Healthcare
+
+REPORT: PathologyText
+CATEGORY: Pathology
+
+FINDINGS:
+Patient presents with non-specific symptoms. PathologyText reveals some abnormalities in pathology structures.
+
+IMPRESSION:
+Findings may indicate potential pathology concern. Recommend specialist review.

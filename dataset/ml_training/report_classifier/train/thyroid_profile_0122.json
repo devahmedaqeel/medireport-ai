@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0122",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Metro Healthcare\n\nREPORT: Thyroid Profile\nThyroid Stimulating Hormone: 20.01 mIU/L [Ref: 0.4-4.0]\nT3: 3.89  [Ref: 0-0]\nT4: 53.09  [Ref: 0-0]\nFree T3: 3.14  [Ref: 0-0]\nFree T4: 105.48  [Ref: 0-0]",
+  "text_noisy": "Metr0 HeaIthcare\n\nREPORT: Thyroid Profile\nThyr0id Stimulating H0rmone: 20.OI mIU/L [Ref: 0.4-4 0]\nT3: 3.89  [Ref: O-0]\nT4: 53.09  [Ref: O-0]\nFree T3: 3.I4  [Ref: 0-O]\nFree T4: 105.48  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 20.01,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "High",
+      "span_text": "Thyroid Stimulating Hormone: 20.01 mIU/L [Ref: 0.4-4.0]"
+    },
+    {
+      "test_name": "T3",
+      "value": 3.89,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3: 3.89  [Ref: 0-0]"
+    },
+    {
+      "test_name": "T4",
+      "value": 53.09,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4: 53.09  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 3.14,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3: 3.14  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 105.48,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4: 105.48  [Ref: 0-0]"
+    }
+  ]
+}

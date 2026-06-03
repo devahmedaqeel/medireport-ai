@@ -1,0 +1,14 @@
+Prime Diagnostics
+
+REPORT: CBC
+HGB: 14.79 g/dL [Ref: 12.0-17.0]
+White Blood Cells: 8475.85 /cmm [Ref: 4000-11000]
+Red Blood Cells: 25.44  [Ref: 0-0]
+PLT: 373751.8 /cmm [Ref: 150000-450000]
+Hematocrit: 30.37  [Ref: 0-0]
+MCV: 27.98  [Ref: 0-0]
+MCH: 6.18  [Ref: 0-0]
+MCHC: 20.34  [Ref: 0-0]
+RDW: 102.61  [Ref: 0-0]
+Neutrophils: 83.36  [Ref: 0-0]
+Lymphocytes: 5.68  [Ref: 0-0]

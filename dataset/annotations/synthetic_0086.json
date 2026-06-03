@@ -1,0 +1,29 @@
+{
+  "reportType": "CBC",
+  "tests": [
+    {
+      "testName": "Hemoglobin",
+      "value": 10.2,
+      "unit": "g/dL",
+      "rangeLow": 13.0,
+      "rangeHigh": 17.0,
+      "status": "Low"
+    },
+    {
+      "testName": "White Blood Cells",
+      "value": 14000,
+      "unit": "/cmm",
+      "rangeLow": 4000,
+      "rangeHigh": 11000,
+      "status": "High"
+    },
+    {
+      "testName": "Platelets",
+      "value": 520000,
+      "unit": "/cmm",
+      "rangeLow": 150000,
+      "rangeHigh": 450000,
+      "status": "High"
+    }
+  ]
+}

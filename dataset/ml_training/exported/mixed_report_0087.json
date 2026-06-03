@@ -1,0 +1,9 @@
+{
+  "report_id": "mixed_report_0087",
+  "source": "synthetic",
+  "report_type": "Mixed Report",
+  "category": "Mixed",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Mixed Report\nINVESTIGATION          RESULT      UNIT      REFERENCE\n",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: Mixed Report\nINVESTIGATION          RESULT      UNIT      REFERENCE\n",
+  "tests": []
+}

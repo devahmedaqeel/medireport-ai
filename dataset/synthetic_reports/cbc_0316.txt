@@ -1,0 +1,14 @@
+Global MedLabs
+
+REPORT: CBC
+Hemoglobin: 15.29 g/dL [Ref: 12.0-17.0]
+WBC: 8392.35 /cmm [Ref: 4000-11000]
+Red Blood Cells: 85.3  [Ref: 0-0]
+Platelet Count: 434943.85 /cmm [Ref: 150000-450000]
+Hematocrit: 93.84  [Ref: 0-0]
+MCV: 45.47  [Ref: 0-0]
+MCH: 26.0  [Ref: 0-0]
+MCHC: 27.47  [Ref: 0-0]
+RDW: 17.14  [Ref: 0-0]
+Neutrophils: 8.9  [Ref: 0-0]
+Lymphocytes: 110.15  [Ref: 0-0]

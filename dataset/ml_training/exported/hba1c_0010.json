@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0010",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: HbA1c\nHbA1c: 1.6  [Ref: 0-0]",
+  "text_noisy": "City ClinicaI Laboratory\n\nREPORT: HbA1c\nHbA1c: 1 6  [Ref: 0-O]",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 1.6,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c: 1.6  [Ref: 0-0]"
+    }
+  ]
+}

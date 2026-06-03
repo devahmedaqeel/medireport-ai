@@ -1,0 +1,9 @@
+LifeScan Center
+
+REPORT: Lipid Profile
+Total Cholesterol 36.13  0 - 0
+LDL 27.45  0 - 0
+HDL 56.53  0 - 0
+VLDL 5.85  0 - 0
+Triglycerides 59.94  0 - 0
+Cholesterol/HDL Ratio 37.33  0 - 0

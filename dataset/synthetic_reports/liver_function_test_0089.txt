@@ -1,0 +1,13 @@
+City Clinical Laboratory
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+ALT                    7.62       U/L        7-56
+AST                    482.3                 0-0
+ALP                    12.2                  0-0
+Bilirubin Total        7.67                  0-0
+Bilirubin Direct       1.46                  0-0
+Bilirubin Indirect     38.87                 0-0
+Albumin                375.02                0-0
+Total Protein          116.4                 0-0
+GGT                    20.55                 0-0

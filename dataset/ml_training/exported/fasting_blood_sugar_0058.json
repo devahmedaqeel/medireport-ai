@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0058",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Metro Healthcare\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    7.54                  0-0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    7.54                  0-0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 7.54,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar    7.54                  0-0"
+    }
+  ]
+}

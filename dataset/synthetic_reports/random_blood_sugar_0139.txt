@@ -1,0 +1,5 @@
+Metro Healthcare
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     104.2                 0-0

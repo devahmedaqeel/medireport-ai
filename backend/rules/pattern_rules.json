@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Iron Deficiency Anemia Pattern",
+    "conditions": [
+      { "testName": "Hemoglobin", "status": "Low" },
+      { "testName": "MCV", "status": "Low" },
+      { "testName": "MCH", "status": "Low" }
+    ],
+    "english": "Low Hemoglobin along with low MCV and MCH may suggest an iron deficiency pattern. Iron studies are recommended.",
+    "romanUrdu": "Hemoglobin, MCV, aur MCH ka kam hona iron ki kami (Anemia) ki taraf ishara kar sakta hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "Bacterial Infection Pattern",
+    "conditions": [
+      { "testName": "White Blood Cells", "status": "High" },
+      { "testName": "Neutrophils", "status": "High" }
+    ],
+    "english": "Elevated White Blood Cells and Neutrophils often indicate a possible bacterial infection or acute inflammation.",
+    "romanUrdu": "WBC aur Neutrophils ka zyada hona jism mein bacterial infection ka ishara ho sakta hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "Viral Infection Pattern",
+    "conditions": [
+      { "testName": "White Blood Cells", "status": "High" },
+      { "testName": "Lymphocytes", "status": "High" }
+    ],
+    "english": "Elevated White Blood Cells and Lymphocytes may indicate a possible viral infection.",
+    "romanUrdu": "WBC aur Lymphocytes ka zyada hona viral infection ki taraf ishara kar sakta hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "Dengue-like Pattern",
+    "conditions": [
+      { "testName": "Platelets", "status": "Low" },
+      { "testName": "White Blood Cells", "status": "Low" }
+    ],
+    "english": "Low Platelets combined with low WBC is a pattern often seen in viral infections like Dengue. Urgent doctor review is needed if fever is present.",
+    "romanUrdu": "Platelets aur WBC ka aik saath kam hona Dengue ya kisi viral infection ka ishara ho sakta hai. Foran doctor ko dikhayein.",
+    "severity": "high"
+  },
+  {
+    "name": "Long-term Sugar Control Issue",
+    "conditions": [
+      { "testName": "Fasting Blood Sugar", "status": "High" },
+      { "testName": "HbA1c", "status": "High" }
+    ],
+    "english": "Both high Fasting Sugar and high HbA1c suggest a pattern of persistent high blood glucose and potential diabetes risk.",
+    "romanUrdu": "Fasting Sugar aur HbA1c dono ka zyada hona yeh zahir karta hai ke aapki sugar mustaqil taur par zyada reh rahi hai.",
+    "severity": "high"
+  },
+  {
+    "name": "Kidney Function Concern",
+    "conditions": [
+      { "testName": "Creatinine", "status": "High" },
+      { "testName": "eGFR", "status": "Low" }
+    ],
+    "english": "High Creatinine along with low eGFR is a strong pattern suggesting reduced kidney filtration capacity.",
+    "romanUrdu": "Creatinine ka zyada aur eGFR ka kam hona gurdon (kidneys) ki kamzori ka ishara ho sakta hai.",
+    "severity": "high"
+  },
+  {
+    "name": "Liver Inflammation Pattern",
+    "conditions": [
+      { "testName": "ALT", "status": "High" },
+      { "testName": "AST", "status": "High" }
+    ],
+    "english": "Elevation in both ALT and AST markers typically suggests active liver cell inflammation or injury.",
+    "romanUrdu": "ALT aur AST dono ka zyada hona jiggar (liver) mein sozish ya injury ka ishara ho sakta hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "Hypothyroid Pattern",
+    "conditions": [
+      { "testName": "TSH", "status": "High" },
+      { "testName": "T4", "status": "Low" }
+    ],
+    "english": "High TSH with low T4 is a classic pattern for primary hypothyroidism (underactive thyroid).",
+    "romanUrdu": "TSH ka zyada aur T4 ka kam hona sust thyroid (hypothyroidism) ki alamat ho sakti hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "Hyperthyroid Pattern",
+    "conditions": [
+      { "testName": "TSH", "status": "Low" },
+      { "testName": "T4", "status": "High" }
+    ],
+    "english": "Low TSH with high T4 is a classic pattern for hyperthyroidism (overactive thyroid).",
+    "romanUrdu": "TSH ka kam aur T4 ka zyada hona teiz thyroid (hyperthyroidism) ki alamat ho sakti hai.",
+    "severity": "medium"
+  },
+  {
+    "name": "UTI Pattern",
+    "conditions": [
+      { "testName": "Pus Cells", "status": "High" },
+      { "testName": "Urine Protein", "status": "High" }
+    ],
+    "english": "Presence of high Pus Cells and Protein in urine may indicate a possible Urinary Tract Infection (UTI).",
+    "romanUrdu": "Urine mein Pus Cells aur Protein ka hona infection (UTI) ki taraf ishara kar sakta hai.",
+    "severity": "medium"
+  }
+]

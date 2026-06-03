@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0146",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Metro Healthcare\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 3.82       mIU/L      0.4-4.0\nT3                     28.6                  0-0\nT4                     28.59                 0-0\nFree T3                41.27                 0-0\nFree T4                24.15                 0-0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Thyroid ProfiIe\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyr0id Stimulating H0rm0ne 3 82       mIU/L      O.4-4.O\nT3                     28.6                  O-0\nT4                     28 59                 O-O\nFree T3                41 27                 O-O\nFree T4                24 I5                 0-0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 3.82,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "Thyroid Stimulating Hormone 3.82       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 28.6,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     28.6                  0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 28.59,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     28.59                 0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 41.27,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                41.27                 0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 24.15,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                24.15                 0-0"
+    }
+  ]
+}

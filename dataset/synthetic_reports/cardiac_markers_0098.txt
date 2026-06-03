@@ -1,0 +1,8 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Troponin I             0.08       ng/L       0-0.04
+CK-MB                  56.75                 0-0
+BNP                    114.03                0-0
+LDH                    8.06                  0-0

@@ -1,0 +1,8 @@
+LifeScan Center
+
+REPORT: Thyroid Profile
+Thyroid Stimulating Hormone: 0.16 mIU/L [Ref: 0.4-4.0]
+T3: 31.2  [Ref: 0-0]
+T4: 3.44  [Ref: 0-0]
+Free T3: 6.72  [Ref: 0-0]
+Free T4: 48.01  [Ref: 0-0]

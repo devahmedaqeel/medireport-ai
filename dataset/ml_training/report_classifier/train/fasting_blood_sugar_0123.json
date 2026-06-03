@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0123",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "LifeScan Center\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    56.96                 0-0",
+  "text_noisy": "LifeScan Center\n\nREPORT: Fasting Bl00d Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Bl0od Sugar    56 96                 0-O",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 56.96,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar    56.96                 0-0"
+    }
+  ]
+}

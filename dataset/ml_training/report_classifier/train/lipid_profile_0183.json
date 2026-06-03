@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0183",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Metro Healthcare\n\nREPORT: Lipid Profile\nTotal Cholesterol: 38.39  [Ref: 0-0]\nLDL: 47.05  [Ref: 0-0]\nHDL: 14.93  [Ref: 0-0]\nVLDL: 38.6  [Ref: 0-0]\nTriglycerides: 30.23  [Ref: 0-0]\nCholesterol/HDL Ratio: 113.22  [Ref: 0-0]",
+  "text_noisy": "Metr0 Healthcare\n\nREPORT: Lipid ProfiIe\nTotal Cholester0l: 38 39  [Ref: O-0]\nLDL: 47.O5  [Ref: O-0]\nHDL: 14 93  [Ref: 0-0]\nVLDL: 38.6  [Ref: 0-0]\nTriglycerides: 3O.23  [Ref: O-0]\nCh0lesterol/HDL Ratio: I13 22  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 38.39,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol: 38.39  [Ref: 0-0]"
+    },
+    {
+      "test_name": "LDL",
+      "value": 47.05,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL: 47.05  [Ref: 0-0]"
+    },
+    {
+      "test_name": "HDL",
+      "value": 14.93,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL: 14.93  [Ref: 0-0]"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 38.6,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL: 38.6  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 30.23,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides: 30.23  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 113.22,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio: 113.22  [Ref: 0-0]"
+    }
+  ]
+}

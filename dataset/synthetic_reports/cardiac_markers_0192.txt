@@ -1,0 +1,8 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+cTnI                   0.02       ng/L       0-0.04
+CK-MB                  32.55                 0-0
+BNP                    64.29                 0-0
+LDH                    42.95                 0-0

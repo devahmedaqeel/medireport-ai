@@ -1,0 +1,5 @@
+Prime Diagnostics
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     71.07                 0-0

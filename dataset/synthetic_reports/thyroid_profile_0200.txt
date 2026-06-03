@@ -1,0 +1,8 @@
+Prime Diagnostics
+
+REPORT: Thyroid Profile
+Thyroid Stimulating Hormone 1.83 mIU/L 0.4 - 4.0
+T3 23.22  0 - 0
+T4 13.94  0 - 0
+Free T3 5.58  0 - 0
+Free T4 18.26  0 - 0

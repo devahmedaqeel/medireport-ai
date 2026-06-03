@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0038",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Random Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom Blood Sugar     10.24                 0-0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: Random Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom Blood Sugar     10.24                 0-0",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 10.24,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar     10.24                 0-0"
+    }
+  ]
+}

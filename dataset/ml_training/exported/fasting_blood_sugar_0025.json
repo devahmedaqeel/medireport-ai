@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0025",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar 98.72  0 - 0",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar 98.72  0 - 0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 98.72,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar 98.72  0 - 0"
+    }
+  ]
+}

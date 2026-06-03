@@ -1,0 +1,4 @@
+Prime Diagnostics
+
+REPORT: Random Blood Sugar
+Random Blood Sugar: 30.78  [Ref: 0-0]

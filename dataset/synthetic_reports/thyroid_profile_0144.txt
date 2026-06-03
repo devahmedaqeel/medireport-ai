@@ -1,0 +1,8 @@
+LifeScan Center
+
+REPORT: Thyroid Profile
+TSH 0.26 mIU/L 0.4 - 4.0
+T3 11.62  0 - 0
+T4 45.6  0 - 0
+Free T3 5.46  0 - 0
+Free T4 27.1  0 - 0

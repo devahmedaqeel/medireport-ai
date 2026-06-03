@@ -1,0 +1,7 @@
+City Clinical Laboratory
+
+REPORT: Cardiac Markers
+Trop I: 0.03 ng/L [Ref: 0-0.04]
+CK-MB: 119.41  [Ref: 0-0]
+BNP: 6.41  [Ref: 0-0]
+LDH: 5.28  [Ref: 0-0]

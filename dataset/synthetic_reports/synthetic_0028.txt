@@ -1,0 +1,5 @@
+Demo Lab Report - Blood Sugar
+Patient: ANONYMIZED
+
+Test Fasting Blood Sugar Result 180 Unit mg/dL Range 70 to 100
+HbA1c 8.1 % 4.0 - 5.6

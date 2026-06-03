@@ -1,0 +1,5 @@
+Global MedLabs
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     37.61                 0-0

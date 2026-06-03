@@ -1,0 +1,7 @@
+City Clinical Laboratory
+
+REPORT: Cardiac Markers
+Troponin I: 0.09 ng/L [Ref: 0-0.04]
+CK-MB: 100.55  [Ref: 0-0]
+BNP: 21.72  [Ref: 0-0]
+LDH: 8.21  [Ref: 0-0]

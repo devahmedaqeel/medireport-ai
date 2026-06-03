@@ -1,0 +1,14 @@
+LifeScan Center
+
+REPORT: CBC
+HGB 12.25 g/dL 12.0 - 17.0
+Total Leukocyte Count 6062.95 /cmm 4000 - 11000
+Red Blood Cells 116.21  0 - 0
+PLT 661948.16 /cmm 150000 - 450000
+Hematocrit 28.72  0 - 0
+MCV 28.99  0 - 0
+MCH 35.66  0 - 0
+MCHC 42.12  0 - 0
+RDW 21.1  0 - 0
+Neutrophils 123.73  0 - 0
+Lymphocytes 23.97  0 - 0

@@ -1,0 +1,12 @@
+LifeScan Center
+
+REPORT: Kidney Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum Creatinine       1.06       mg/dL      0.6-1.3
+Urea                   3.52                  0-0
+BUN                    468.0                 0-0
+Uric Acid              30.87                 0-0
+eGFR                   33.58                 0-0
+Sodium                 28.85                 0-0
+Potassium              4.22                  0-0
+Chloride               116.33                0-0

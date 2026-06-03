@@ -1,0 +1,4 @@
+LifeScan Center
+
+REPORT: Fasting Blood Sugar
+Fasting Blood Sugar: 44.8  [Ref: 0-0]

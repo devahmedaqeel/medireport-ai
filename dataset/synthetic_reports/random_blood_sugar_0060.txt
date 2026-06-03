@@ -1,0 +1,5 @@
+City Clinical Laboratory
+
+REPORT: Random Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Random Blood Sugar     4.18                  0-0

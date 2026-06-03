@@ -1,0 +1,8 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Trop I                 0.0        ng/L       0-0.04
+CK-MB                  6.06                  0-0
+BNP                    8.97                  0-0
+LDH                    55.52                 0-0

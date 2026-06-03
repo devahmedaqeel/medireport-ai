@@ -1,0 +1,91 @@
+{
+  "report_id": "liver_function_test_0285",
+  "source": "synthetic",
+  "report_type": "Liver Function Test",
+  "category": "Liver",
+  "text_clean": "Global MedLabs\n\nREPORT: Liver Function Test\nALT 44.81 U/L 7 - 56\nAST 10.66  0 - 0\nALP 100.45  0 - 0\nBilirubin Total 45.77  0 - 0\nBilirubin Direct 58.03  0 - 0\nBilirubin Indirect 116.14  0 - 0\nAlbumin 29.97  0 - 0\nTotal Protein 4.99  0 - 0\nGGT 6.67  0 - 0",
+  "text_noisy": "Global MedLabs\n\nREPORT: Liver Functi0n Test\nALT 44 81 U/L 7 - 56\nAST IO 66  0 - O\nALP IO0.45  0 - 0\nBilirubin TotaI 45 77  0 - 0\nBiIirubin Direct 58.O3  O - O\nBiIirubin Indirect I16 14  0 - O\nAIbumin 29.97  O - 0\nTotal Protein 4.99  O - 0\nGGT 6 67  O - 0",
+  "tests": [
+    {
+      "test_name": "ALT",
+      "value": 44.81,
+      "unit": "U/L",
+      "range_low": 7,
+      "range_high": 56,
+      "status": "Normal",
+      "span_text": "ALT 44.81 U/L 7 - 56"
+    },
+    {
+      "test_name": "AST",
+      "value": 10.66,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "AST 10.66  0 - 0"
+    },
+    {
+      "test_name": "ALP",
+      "value": 100.45,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "ALP 100.45  0 - 0"
+    },
+    {
+      "test_name": "Bilirubin Total",
+      "value": 45.77,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Total 45.77  0 - 0"
+    },
+    {
+      "test_name": "Bilirubin Direct",
+      "value": 58.03,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Direct 58.03  0 - 0"
+    },
+    {
+      "test_name": "Bilirubin Indirect",
+      "value": 116.14,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Indirect 116.14  0 - 0"
+    },
+    {
+      "test_name": "Albumin",
+      "value": 29.97,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Albumin 29.97  0 - 0"
+    },
+    {
+      "test_name": "Total Protein",
+      "value": 4.99,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Protein 4.99  0 - 0"
+    },
+    {
+      "test_name": "GGT",
+      "value": 6.67,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "GGT 6.67  0 - 0"
+    }
+  ]
+}

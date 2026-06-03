@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0018",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "LifeScan Center\n\nREPORT: Cardiac Markers\nTrop I: 0.0 ng/L [Ref: 0-0.04]\nCK-MB: 57.94  [Ref: 0-0]\nBNP: 49.0  [Ref: 0-0]\nLDH: 19.62  [Ref: 0-0]",
+  "text_noisy": "LifeScan Center\n\nREPORT: Cardiac Markers\nTrop I: 0.0 ng/L [Ref: 0-0.04]\nCK-MB: 57.94  [Ref: 0-0]\nBNP: 49.0  [Ref: 0-0]\nLDH: 19.62  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.0,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "Normal",
+      "span_text": "Trop I: 0.0 ng/L [Ref: 0-0.04]"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 57.94,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB: 57.94  [Ref: 0-0]"
+    },
+    {
+      "test_name": "BNP",
+      "value": 49.0,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP: 49.0  [Ref: 0-0]"
+    },
+    {
+      "test_name": "LDH",
+      "value": 19.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH: 19.62  [Ref: 0-0]"
+    }
+  ]
+}

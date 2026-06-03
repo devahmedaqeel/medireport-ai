@@ -1,0 +1,91 @@
+{
+  "report_id": "liver_function_test_0064",
+  "source": "synthetic",
+  "report_type": "Liver Function Test",
+  "category": "Liver",
+  "text_clean": "LifeScan Center\n\nREPORT: Liver Function Test\nAlanine Aminotransferase: 28.95 U/L [Ref: 7-56]\nAST: 72.79  [Ref: 0-0]\nALP: 17.4  [Ref: 0-0]\nBilirubin Total: 10.67  [Ref: 0-0]\nBilirubin Direct: 3.75  [Ref: 0-0]\nBilirubin Indirect: 40.25  [Ref: 0-0]\nAlbumin: 53.86  [Ref: 0-0]\nTotal Protein: 98.99  [Ref: 0-0]\nGGT: 114.16  [Ref: 0-0]",
+  "text_noisy": "LifeScan Center\n\nREPORT: Liver Function Test\nAIanine Aminotransferase: 28.95 U/L [Ref: 7-56]\nAST: 72 79  [Ref: 0-0]\nALP: 17.4  [Ref: 0-O]\nBilirubin T0taI: I0.67  [Ref: O-O]\nBilirubin Direct: 3 75  [Ref: 0-0]\nBilirubin Indirect: 40 25  [Ref: 0-0]\nAIbumin: 53 86  [Ref: 0-0]\nTotal Protein: 98.99  [Ref: 0-O]\nGGT: 114.I6  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "ALT",
+      "value": 28.95,
+      "unit": "U/L",
+      "range_low": 7,
+      "range_high": 56,
+      "status": "Normal",
+      "span_text": "Alanine Aminotransferase: 28.95 U/L [Ref: 7-56]"
+    },
+    {
+      "test_name": "AST",
+      "value": 72.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "AST: 72.79  [Ref: 0-0]"
+    },
+    {
+      "test_name": "ALP",
+      "value": 17.4,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "ALP: 17.4  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Bilirubin Total",
+      "value": 10.67,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Total: 10.67  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Bilirubin Direct",
+      "value": 3.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Direct: 3.75  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Bilirubin Indirect",
+      "value": 40.25,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Bilirubin Indirect: 40.25  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Albumin",
+      "value": 53.86,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Albumin: 53.86  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Total Protein",
+      "value": 98.99,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Protein: 98.99  [Ref: 0-0]"
+    },
+    {
+      "test_name": "GGT",
+      "value": 114.16,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "GGT: 114.16  [Ref: 0-0]"
+    }
+  ]
+}

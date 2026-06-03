@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0230",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             3.77       g/dL       12.0-17.0\nTotal Leukocyte Count  5845.85    /cmm       4000-11000\nRed Blood Cells        37.83                 0-0\nPlatelet Count         314303.39  /cmm       150000-450000\nHematocrit             17.12                 0-0\nMCV                    42.29                 0-0\nMCH                    58.32                 0-0\nMCHC                   11.61                 0-0\nRDW                    33.38                 0-0\nNeutrophils            31.74                 0-0\nLymphocytes            9.07                  0-0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             3.77       g/dL       12.0-17.0\nTotal Leukocyte Count  5845.85    /cmm       4000-11000\nRed Blood Cells        37.83                 0-0\nPlatelet Count         314303.39  /cmm       150000-450000\nHematocrit             17.12                 0-0\nMCV                    42.29                 0-0\nMCH                    58.32                 0-0\nMCHC                   11.61                 0-0\nRDW                    33.38                 0-0\nNeutrophils            31.74                 0-0\nLymphocytes            9.07                  0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 3.77,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Low",
+      "span_text": "Hemoglobin             3.77       g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 5845.85,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "Total Leukocyte Count  5845.85    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 37.83,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        37.83                 0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 314303.39,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelet Count         314303.39  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 17.12,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             17.12                 0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 42.29,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    42.29                 0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 58.32,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    58.32                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 11.61,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   11.61                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 33.38,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    33.38                 0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 31.74,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            31.74                 0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 9.07,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            9.07                  0-0"
+    }
+  ]
+}

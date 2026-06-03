@@ -1,0 +1,5 @@
+Demo Lab Report - Blood Sugar
+Patient: ANONYMIZED
+
+Fasting Blood Sugar 92 mg/dL 70 - 100
+Test HbA1c Result 5.2 Unit % Range 4.0 to 5.6

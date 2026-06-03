@@ -1,0 +1,8 @@
+Prime Diagnostics
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Troponin I             0.08       ng/L       0-0.04
+CK-MB                  122.28                0-0
+BNP                    0.62                  0-0
+LDH                    19.05                 0-0

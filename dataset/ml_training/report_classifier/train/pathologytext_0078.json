@@ -1,0 +1,14 @@
+{
+  "report_id": "pathologytext_0078",
+  "source": "synthetic",
+  "report_type": "PathologyText",
+  "category": "Pathology",
+  "text_clean": "LifeScan Center\n\nREPORT: PathologyText\nCATEGORY: Pathology\n\nFINDINGS:\nPatient presents with non-specific symptoms. PathologyText reveals some abnormalities in pathology structures.\n\nIMPRESSION:\nFindings may indicate potential pathology concern. Recommend specialist review.\n",
+  "text_noisy": "LifeScan Center\n\nREPORT: PathoIogyText\nCATEGORY: Path0logy\n\nFINDINGS:\nPatient presents with n0n-specific symptoms  PathologyText reveals s0me abnormaIities in pathology structures.\n\nIMPRESSION:\nFindings may indicate p0tential path0l0gy c0ncern. Recommend speciaIist review.\n",
+  "findings": "Patient presents with non-specific symptoms. PathologyText reveals some abnormalities in pathology structures.",
+  "impression": "Findings may indicate potential pathology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

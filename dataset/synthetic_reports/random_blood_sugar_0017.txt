@@ -1,0 +1,4 @@
+City Clinical Laboratory
+
+REPORT: Random Blood Sugar
+Random Blood Sugar: 12.42  [Ref: 0-0]

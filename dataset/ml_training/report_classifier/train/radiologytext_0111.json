@@ -1,0 +1,14 @@
+{
+  "report_id": "radiologytext_0111",
+  "source": "synthetic",
+  "report_type": "RadiologyText",
+  "category": "Radiology",
+  "text_clean": "Metro Healthcare\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "text_noisy": "Metro Healthcare\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "findings": "Patient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.",
+  "impression": "Findings may indicate potential radiology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

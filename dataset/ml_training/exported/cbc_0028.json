@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0028",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "Metro Healthcare\n\nREPORT: CBC\nHGB 15.58 g/dL 12.0 - 17.0\nTotal Leukocyte Count 8506.18 /cmm 4000 - 11000\nRed Blood Cells 33.25  0 - 0\nPlatelets 342436.06 /cmm 150000 - 450000\nHematocrit 43.77  0 - 0\nMCV 39.87  0 - 0\nMCH 45.27  0 - 0\nMCHC 4.43  0 - 0\nRDW 3.49  0 - 0\nNeutrophils 16.46  0 - 0\nLymphocytes 17.21  0 - 0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: CBC\nHGB 15.58 g/dL 12.0 - 17.0\nTotal Leukocyte Count 8506.18 /cmm 4000 - 11000\nRed Blood Cells 33.25  0 - 0\nPlatelets 342436.06 /cmm 150000 - 450000\nHematocrit 43.77  0 - 0\nMCV 39.87  0 - 0\nMCH 45.27  0 - 0\nMCHC 4.43  0 - 0\nRDW 3.49  0 - 0\nNeutrophils 16.46  0 - 0\nLymphocytes 17.21  0 - 0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 15.58,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Normal",
+      "span_text": "HGB 15.58 g/dL 12.0 - 17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 8506.18,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "Total Leukocyte Count 8506.18 /cmm 4000 - 11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 33.25,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells 33.25  0 - 0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 342436.06,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelets 342436.06 /cmm 150000 - 450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 43.77,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit 43.77  0 - 0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 39.87,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV 39.87  0 - 0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 45.27,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH 45.27  0 - 0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 4.43,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC 4.43  0 - 0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 3.49,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW 3.49  0 - 0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 16.46,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils 16.46  0 - 0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 17.21,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes 17.21  0 - 0"
+    }
+  ]
+}

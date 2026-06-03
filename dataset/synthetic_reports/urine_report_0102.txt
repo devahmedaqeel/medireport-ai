@@ -1,0 +1,13 @@
+Global MedLabs
+
+REPORT: Urine Report
+Urine Protein: 1.97  [Ref: 0-0]
+Urine Glucose: 3.8  [Ref: 0-0]
+Urine Ketones: 18.79  [Ref: 0-0]
+Pus Cells: 53.3  [Ref: 0-0]
+Urine RBC: 48.5  [Ref: 0-0]
+Epithelial Cells: 86.51  [Ref: 0-0]
+Nitrite: 87.81  [Ref: 0-0]
+Leukocyte Esterase: 1.79  [Ref: 0-0]
+Specific Gravity: 47.13  [Ref: 0-0]
+pH: 92.75  [Ref: 0-0]

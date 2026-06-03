@@ -1,0 +1,13 @@
+City Clinical Laboratory
+
+REPORT: Urine Report
+Urine Protein: 27.84  [Ref: 0-0]
+Urine Glucose: 41.11  [Ref: 0-0]
+Urine Ketones: 7.74  [Ref: 0-0]
+Pus Cells: 83.46  [Ref: 0-0]
+Urine RBC: 4.88  [Ref: 0-0]
+Epithelial Cells: 4.36  [Ref: 0-0]
+Nitrite: 44.88  [Ref: 0-0]
+Leukocyte Esterase: 73.41  [Ref: 0-0]
+Specific Gravity: 5.89  [Ref: 0-0]
+pH: 111.29  [Ref: 0-0]

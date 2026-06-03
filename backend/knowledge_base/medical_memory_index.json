@@ -1,0 +1,5 @@
+{
+  "last_updated": "2026-06-02",
+  "active_rules": ["abnormal_rules.json", "pattern_rules.json"],
+  "memory_files": ["alias_memory.json", "ocr_correction_memory.json"]
+}

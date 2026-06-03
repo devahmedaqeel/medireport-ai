@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0344",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "Prime Diagnostics\n\nREPORT: CBC\nHGB: 14.79 g/dL [Ref: 12.0-17.0]\nWhite Blood Cells: 8475.85 /cmm [Ref: 4000-11000]\nRed Blood Cells: 25.44  [Ref: 0-0]\nPLT: 373751.8 /cmm [Ref: 150000-450000]\nHematocrit: 30.37  [Ref: 0-0]\nMCV: 27.98  [Ref: 0-0]\nMCH: 6.18  [Ref: 0-0]\nMCHC: 20.34  [Ref: 0-0]\nRDW: 102.61  [Ref: 0-0]\nNeutrophils: 83.36  [Ref: 0-0]\nLymphocytes: 5.68  [Ref: 0-0]",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: CBC\nHGB: 14 79 g/dL [Ref: 12.O-I7 0]\nWhite Blo0d CeIls: 8475 85 /cmm [Ref: 40O0-11OO0]\nRed BI00d CeIls: 25 44  [Ref: 0-O]\nPLT: 373751.8 /cmm [Ref: I5O00O-45O00O]\nHemat0crit: 30 37  [Ref: 0-O]\nMCV: 27.98  [Ref: O-O]\nMCH: 6.18  [Ref: O-0]\nMCHC: 2O.34  [Ref: O-0]\nRDW: IO2.61  [Ref: O-0]\nNeutr0phiIs: 83.36  [Ref: 0-O]\nLymphocytes: 5 68  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 14.79,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Normal",
+      "span_text": "HGB: 14.79 g/dL [Ref: 12.0-17.0]"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 8475.85,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "White Blood Cells: 8475.85 /cmm [Ref: 4000-11000]"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 25.44,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells: 25.44  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 373751.8,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "PLT: 373751.8 /cmm [Ref: 150000-450000]"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 30.37,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit: 30.37  [Ref: 0-0]"
+    },
+    {
+      "test_name": "MCV",
+      "value": 27.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV: 27.98  [Ref: 0-0]"
+    },
+    {
+      "test_name": "MCH",
+      "value": 6.18,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH: 6.18  [Ref: 0-0]"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 20.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC: 20.34  [Ref: 0-0]"
+    },
+    {
+      "test_name": "RDW",
+      "value": 102.61,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW: 102.61  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 83.36,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils: 83.36  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 5.68,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes: 5.68  [Ref: 0-0]"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "report_id": "random_blood_sugar_0034",
+  "source": "synthetic",
+  "report_type": "Random Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Metro Healthcare\n\nREPORT: Random Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom Blood Sugar     8.75                  0-0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Random Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nRandom BIood Sugar     8.75                  0-0",
+  "tests": [
+    {
+      "test_name": "Random Blood Sugar",
+      "value": 8.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Random Blood Sugar     8.75                  0-0"
+    }
+  ]
+}

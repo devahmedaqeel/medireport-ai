@@ -1,0 +1,15 @@
+Global MedLabs
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hemoglobin             15.9       g/dL       12.0-17.0
+TLC                    402.43     /cmm       4000-11000
+Red Blood Cells        49.97                 0-0
+Platelets              193346.28  /cmm       150000-450000
+Hematocrit             10.44                 0-0
+MCV                    1.1                   0-0
+MCH                    28.2                  0-0
+MCHC                   57.38                 0-0
+RDW                    88.87                 0-0
+Neutrophils            41.29                 0-0
+Lymphocytes            11.28                 0-0

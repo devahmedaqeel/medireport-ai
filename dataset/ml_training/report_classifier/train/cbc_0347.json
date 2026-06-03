@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0347",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "Prime Diagnostics\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    26.45      g/dL       12.0-17.0\nWhite Blood Cells      6806.35    /cmm       4000-11000\nRed Blood Cells        6.11                  0-0\nPlatelets              80444.22   /cmm       150000-450000\nHematocrit             1.53                  0-0\nMCV                    32.33                 0-0\nMCH                    1.04                  0-0\nMCHC                   108.48                0-0\nRDW                    36.07                 0-0\nNeutrophils            40.23                 0-0\nLymphocytes            38.54                 0-0",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    26.45      g/dL       12.0-17.0\nWhite Blood Cells      6806.35    /cmm       4000-11000\nRed Blood Cells        6.11                  0-0\nPlatelets              80444.22   /cmm       150000-450000\nHematocrit             1.53                  0-0\nMCV                    32.33                 0-0\nMCH                    1.04                  0-0\nMCHC                   108.48                0-0\nRDW                    36.07                 0-0\nNeutrophils            40.23                 0-0\nLymphocytes            38.54                 0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 26.45,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "High",
+      "span_text": "HGB                    26.45      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 6806.35,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "White Blood Cells      6806.35    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 6.11,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        6.11                  0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 80444.22,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Low",
+      "span_text": "Platelets              80444.22   /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 1.53,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             1.53                  0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 32.33,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    32.33                 0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 1.04,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    1.04                  0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 108.48,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   108.48                0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 36.07,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    36.07                 0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 40.23,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            40.23                 0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 38.54,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            38.54                 0-0"
+    }
+  ]
+}

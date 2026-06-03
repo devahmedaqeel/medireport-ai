@@ -1,0 +1,8 @@
+Metro Healthcare
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Troponin I             0.04       ng/L       0-0.04
+CK-MB                  26.03                 0-0
+BNP                    37.58                 0-0
+LDH                    22.99                 0-0

@@ -1,0 +1,4 @@
+City Clinical Laboratory
+
+REPORT: HbA1c
+HbA1c: 3.58  [Ref: 0-0]

@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0047",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar 25.08  0 - 0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar 25.08  0 - 0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 25.08,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar 25.08  0 - 0"
+    }
+  ]
+}

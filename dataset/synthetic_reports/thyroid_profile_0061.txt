@@ -1,0 +1,8 @@
+Metro Healthcare
+
+REPORT: Thyroid Profile
+Thyroid Stimulating Hormone 0.2 mIU/L 0.4 - 4.0
+T3 90.52  0 - 0
+T4 22.26  0 - 0
+Free T3 18.09  0 - 0
+Free T4 85.12  0 - 0

@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0022",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: HbA1c\nHbA1c 22.9  0 - 0",
+  "text_noisy": "GlobaI MedLabs\n\nREPORT: HbAIc\nHbAIc 22 9  0 - 0",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 22.9,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c 22.9  0 - 0"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+LifeScan Center
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+HGB                    10.95      g/dL       12.0-17.0
+Total Leukocyte Count  10288.71   /cmm       4000-11000
+Red Blood Cells        20.98                 0-0
+Platelets              200986.81  /cmm       150000-450000
+Hematocrit             27.43                 0-0
+MCV                    23.77                 0-0
+MCH                    83.68                 0-0
+MCHC                   22.53                 0-0
+RDW                    3.23                  0-0
+Neutrophils            79.59                 0-0
+Lymphocytes            36.66                 0-0

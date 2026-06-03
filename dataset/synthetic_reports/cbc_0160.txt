@@ -1,0 +1,15 @@
+Metro Healthcare
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hemoglobin             15.35      g/dL       12.0-17.0
+White Blood Cells      2403.3     /cmm       4000-11000
+Red Blood Cells        364.88                0-0
+Platelet Count         332011.94  /cmm       150000-450000
+Hematocrit             17.72                 0-0
+MCV                    309.79                0-0
+MCH                    42.95                 0-0
+MCHC                   7.15                  0-0
+RDW                    5.43                  0-0
+Neutrophils            77.97                 0-0
+Lymphocytes            24.37                 0-0

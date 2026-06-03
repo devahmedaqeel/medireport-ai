@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0105",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Metro Healthcare\n\nREPORT: Lipid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTotal Cholesterol      13.9                  0-0\nLDL                    44.57                 0-0\nHDL                    15.07                 0-0\nVLDL                   69.91                 0-0\nTriglycerides          457.06                0-0\nCholesterol/HDL Ratio  0.78                  0-0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Lipid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTotal Cholesterol      13.9                  0-0\nLDL                    44.57                 0-0\nHDL                    15.07                 0-0\nVLDL                   69.91                 0-0\nTriglycerides          457.06                0-0\nCholesterol/HDL Ratio  0.78                  0-0",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 13.9,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol      13.9                  0-0"
+    },
+    {
+      "test_name": "LDL",
+      "value": 44.57,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL                    44.57                 0-0"
+    },
+    {
+      "test_name": "HDL",
+      "value": 15.07,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL                    15.07                 0-0"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 69.91,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL                   69.91                 0-0"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 457.06,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides          457.06                0-0"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 0.78,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio  0.78                  0-0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0014",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "Metro Healthcare\n\nREPORT: HbA1c\nHbA1c: 30.88  [Ref: 0-0]",
+  "text_noisy": "Metro Healthcare\n\nREPORT: HbA1c\nHbA1c: 30.88  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 30.88,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c: 30.88  [Ref: 0-0]"
+    }
+  ]
+}

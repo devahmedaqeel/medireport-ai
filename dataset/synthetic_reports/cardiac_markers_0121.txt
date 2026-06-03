@@ -1,0 +1,7 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+cTnI 0.01 ng/L 0 - 0.04
+CK-MB 1.97  0 - 0
+BNP 108.15  0 - 0
+LDH 46.86  0 - 0

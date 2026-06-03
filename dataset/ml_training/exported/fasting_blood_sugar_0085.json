@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0085",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    101.72                0-0",
+  "text_noisy": "Global MedLabs\n\nREPORT: Fasting Blood Sugar\nINVESTIGATION          RESULT      UNIT      REFERENCE\nFasting Blood Sugar    101.72                0-0",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 101.72,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar    101.72                0-0"
+    }
+  ]
+}

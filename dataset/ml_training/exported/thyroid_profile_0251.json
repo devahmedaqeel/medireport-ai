@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0251",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "LifeScan Center\n\nREPORT: Thyroid Profile\nTSH 0.61 mIU/L 0.4 - 4.0\nT3 9.5  0 - 0\nT4 108.7  0 - 0\nFree T3 33.3  0 - 0\nFree T4 118.06  0 - 0",
+  "text_noisy": "LifeScan Center\n\nREPORT: Thyroid Profile\nTSH 0.61 mIU/L 0.4 - 4.0\nT3 9.5  0 - 0\nT4 108.7  0 - 0\nFree T3 33.3  0 - 0\nFree T4 118.06  0 - 0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 0.61,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "TSH 0.61 mIU/L 0.4 - 4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 9.5,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3 9.5  0 - 0"
+    },
+    {
+      "test_name": "T4",
+      "value": 108.7,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4 108.7  0 - 0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 33.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3 33.3  0 - 0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 118.06,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4 118.06  0 - 0"
+    }
+  ]
+}

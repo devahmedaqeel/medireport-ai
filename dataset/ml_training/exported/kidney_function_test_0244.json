@@ -1,0 +1,82 @@
+{
+  "report_id": "kidney_function_test_0244",
+  "source": "synthetic",
+  "report_type": "Kidney Function Test",
+  "category": "Renal",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Kidney Function Test\nINVESTIGATION          RESULT      UNIT      REFERENCE\nS. Creatinine          0.83       mg/dL      0.6-1.3\nUrea                   36.86                 0-0\nBUN                    231.84                0-0\nUric Acid              14.82                 0-0\neGFR                   58.62                 0-0\nSodium                 6.98                  0-0\nPotassium              74.34                 0-0\nChloride               16.24                 0-0",
+  "text_noisy": "Prime Diagn0stics\n\nREPORT: Kidney Functi0n Test\nINVESTIGATION          RESULT      UNIT      REFERENCE\nS. Creatinine          O.83       mg/dL      0.6-I.3\nUrea                   36 86                 O-O\nBUN                    231.84                0-0\nUric Acid              14.82                 O-O\neGFR                   58 62                 0-O\nS0dium                 6.98                  0-0\nPotassium              74.34                 O-0\nChI0ride               16 24                 0-O",
+  "tests": [
+    {
+      "test_name": "Creatinine",
+      "value": 0.83,
+      "unit": "mg/dL",
+      "range_low": 0.6,
+      "range_high": 1.3,
+      "status": "Normal",
+      "span_text": "S. Creatinine          0.83       mg/dL      0.6-1.3"
+    },
+    {
+      "test_name": "Urea",
+      "value": 36.86,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urea                   36.86                 0-0"
+    },
+    {
+      "test_name": "BUN",
+      "value": 231.84,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BUN                    231.84                0-0"
+    },
+    {
+      "test_name": "Uric Acid",
+      "value": 14.82,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Uric Acid              14.82                 0-0"
+    },
+    {
+      "test_name": "eGFR",
+      "value": 58.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "eGFR                   58.62                 0-0"
+    },
+    {
+      "test_name": "Sodium",
+      "value": 6.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Sodium                 6.98                  0-0"
+    },
+    {
+      "test_name": "Potassium",
+      "value": 74.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Potassium              74.34                 0-0"
+    },
+    {
+      "test_name": "Chloride",
+      "value": 16.24,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Chloride               16.24                 0-0"
+    }
+  ]
+}

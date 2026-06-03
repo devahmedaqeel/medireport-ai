@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0195",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "Metro Healthcare\n\nREPORT: Cardiac Markers\nTrop I 0.02 ng/L 0 - 0.04\nCK-MB 72.97  0 - 0\nBNP 0.92  0 - 0\nLDH 106.15  0 - 0",
+  "text_noisy": "Metr0 Healthcare\n\nREPORT: Cardiac Markers\nTrop I 0 02 ng/L 0 - 0.04\nCK-MB 72 97  0 - 0\nBNP 0.92  0 - 0\nLDH I06.15  O - 0",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.02,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "Normal",
+      "span_text": "Trop I 0.02 ng/L 0 - 0.04"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 72.97,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB 72.97  0 - 0"
+    },
+    {
+      "test_name": "BNP",
+      "value": 0.92,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP 0.92  0 - 0"
+    },
+    {
+      "test_name": "LDH",
+      "value": 106.15,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH 106.15  0 - 0"
+    }
+  ]
+}

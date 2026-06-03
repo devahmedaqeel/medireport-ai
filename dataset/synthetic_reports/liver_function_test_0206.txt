@@ -1,0 +1,12 @@
+Global MedLabs
+
+REPORT: Liver Function Test
+Alanine Aminotransferase 39.4 U/L 7 - 56
+AST 33.11  0 - 0
+ALP 36.46  0 - 0
+Bilirubin Total 69.81  0 - 0
+Bilirubin Direct 106.26  0 - 0
+Bilirubin Indirect 7.63  0 - 0
+Albumin 34.57  0 - 0
+Total Protein 87.14  0 - 0
+GGT 4.32  0 - 0

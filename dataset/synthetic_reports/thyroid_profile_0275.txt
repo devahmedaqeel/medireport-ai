@@ -1,0 +1,8 @@
+City Clinical Laboratory
+
+REPORT: Thyroid Profile
+Thyroid Stimulating Hormone 0.72 mIU/L 0.4 - 4.0
+T3 35.27  0 - 0
+T4 406.71  0 - 0
+Free T3 7.28  0 - 0
+Free T4 416.46  0 - 0

@@ -1,0 +1,5 @@
+{
+  "Diabetes": { "description": "Chronic condition of high blood sugar", "risk_factors": ["High FBS", "High HbA1c"] },
+  "Anemia": { "description": "Reduced oxygen-carrying capacity of blood", "risk_factors": ["Low Hemoglobin", "Low MCV"] },
+  "Renal Insufficiency": { "description": "Reduced kidney function", "risk_factors": ["High Creatinine", "Low eGFR"] }
+}

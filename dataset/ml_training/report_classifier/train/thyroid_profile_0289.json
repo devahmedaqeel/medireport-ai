@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0289",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Global MedLabs\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTSH                    7.03       mIU/L      0.4-4.0\nT3                     5.23                  0-0\nT4                     5.78                  0-0\nFree T3                6.98                  0-0\nFree T4                3.5                   0-0",
+  "text_noisy": "GI0bal MedLabs\n\nREPORT: Thyroid Pr0file\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTSH                    7.O3       mIU/L      O 4-4 O\nT3                     5.23                  O-O\nT4                     5 78                  O-0\nFree T3                6.98                  0-0\nFree T4                3.5                   0-O",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 7.03,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "High",
+      "span_text": "TSH                    7.03       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 5.23,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     5.23                  0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 5.78,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     5.78                  0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 6.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                6.98                  0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 3.5,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                3.5                   0-0"
+    }
+  ]
+}

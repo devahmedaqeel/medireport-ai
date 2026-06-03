@@ -1,0 +1,11 @@
+Prime Diagnostics
+
+REPORT: Kidney Function Test
+Serum Creatinine: 1.0 mg/dL [Ref: 0.6-1.3]
+Urea: 22.46  [Ref: 0-0]
+BUN: 3.23  [Ref: 0-0]
+Uric Acid: 36.54  [Ref: 0-0]
+eGFR: 89.22  [Ref: 0-0]
+Sodium: 97.5  [Ref: 0-0]
+Potassium: 1.13  [Ref: 0-0]
+Chloride: 7.4  [Ref: 0-0]

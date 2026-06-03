@@ -1,0 +1,7 @@
+Metro Healthcare
+
+REPORT: Cardiac Markers
+cTnI: 0.1 ng/L [Ref: 0-0.04]
+CK-MB: 108.76  [Ref: 0-0]
+BNP: 17.35  [Ref: 0-0]
+LDH: 22.27  [Ref: 0-0]

@@ -1,0 +1,7 @@
+Prime Diagnostics
+
+REPORT: Cardiac Markers
+Trop I 0.02 ng/L 0 - 0.04
+CK-MB 32.74  0 - 0
+BNP 21.27  0 - 0
+LDH 122.42  0 - 0

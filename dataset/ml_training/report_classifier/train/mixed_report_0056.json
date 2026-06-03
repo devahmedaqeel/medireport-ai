@@ -1,0 +1,9 @@
+{
+  "report_id": "mixed_report_0056",
+  "source": "synthetic",
+  "report_type": "Mixed Report",
+  "category": "Mixed",
+  "text_clean": "LifeScan Center\n\nREPORT: Mixed Report\n",
+  "text_noisy": "LifeScan Center\n\nREPORT: Mixed Report\n",
+  "tests": []
+}

@@ -1,0 +1,14 @@
+City Clinical Laboratory
+
+REPORT: Urine Report
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Urine Protein          494.76                0-0
+Urine Glucose          73.7                  0-0
+Urine Ketones          16.88                 0-0
+Pus Cells              106.95                0-0
+Urine RBC              45.88                 0-0
+Epithelial Cells       214.27                0-0
+Nitrite                389.34                0-0
+Leukocyte Esterase     15.63                 0-0
+Specific Gravity       92.58                 0-0
+pH                     113.35                0-0

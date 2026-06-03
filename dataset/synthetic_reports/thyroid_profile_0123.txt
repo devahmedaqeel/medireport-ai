@@ -1,0 +1,9 @@
+City Clinical Laboratory
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum TSH              0.3        mIU/L      0.4-4.0
+T3                     9.16                  0-0
+T4                     19.41                 0-0
+Free T3                3.15                  0-0
+Free T4                60.37                 0-0

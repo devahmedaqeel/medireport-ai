@@ -1,0 +1,9 @@
+Global MedLabs
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Thyroid Stimulating Hormone 0.28       mIU/L      0.4-4.0
+T3                     84.94                 0-0
+T4                     85.71                 0-0
+Free T3                32.76                 0-0
+Free T4                4.32                  0-0

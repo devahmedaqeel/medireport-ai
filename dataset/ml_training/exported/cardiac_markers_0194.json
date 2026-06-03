@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0194",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "Metro Healthcare\n\nREPORT: Cardiac Markers\nTroponin I 0.02 ng/L 0 - 0.04\nCK-MB 355.42  0 - 0\nBNP 72.62  0 - 0\nLDH 17.6  0 - 0",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Cardiac Markers\nTroponin I 0.02 ng/L 0 - 0.04\nCK-MB 355.42  0 - 0\nBNP 72.62  0 - 0\nLDH 17.6  0 - 0",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.02,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "Normal",
+      "span_text": "Troponin I 0.02 ng/L 0 - 0.04"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 355.42,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB 355.42  0 - 0"
+    },
+    {
+      "test_name": "BNP",
+      "value": 72.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP 72.62  0 - 0"
+    },
+    {
+      "test_name": "LDH",
+      "value": 17.6,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH 17.6  0 - 0"
+    }
+  ]
+}

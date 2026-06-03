@@ -1,0 +1,15 @@
+Metro Healthcare
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hb                     6.15       g/dL       12.0-17.0
+TLC                    8024.2     /cmm       4000-11000
+Red Blood Cells        0.98                  0-0
+PLT                    808984.16  /cmm       150000-450000
+Hematocrit             46.97                 0-0
+MCV                    9.43                  0-0
+MCH                    49.55                 0-0
+MCHC                   1.39                  0-0
+RDW                    22.69                 0-0
+Neutrophils            6.85                  0-0
+Lymphocytes            9.23                  0-0

@@ -1,0 +1,9 @@
+Global MedLabs
+
+REPORT: Lipid Profile
+Total Cholesterol 47.96  0 - 0
+LDL 15.61  0 - 0
+HDL 37.36  0 - 0
+VLDL 8.68  0 - 0
+Triglycerides 32.55  0 - 0
+Cholesterol/HDL Ratio 101.42  0 - 0

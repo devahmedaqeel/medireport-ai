@@ -1,0 +1,14 @@
+{
+  "report_id": "brainneurologytext_0137",
+  "source": "synthetic",
+  "report_type": "BrainNeurologyText",
+  "category": "Neurology",
+  "text_clean": "LifeScan Center\n\nREPORT: BrainNeurologyText\nCATEGORY: Neurology\n\nFINDINGS:\nPatient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.\n\nIMPRESSION:\nFindings may indicate potential neurology concern. Recommend specialist review.\n",
+  "text_noisy": "LifeScan Center\n\nREPORT: BrainNeurologyText\nCATEGORY: Neurology\n\nFINDINGS:\nPatient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.\n\nIMPRESSION:\nFindings may indicate potential neurology concern. Recommend specialist review.\n",
+  "findings": "Patient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.",
+  "impression": "Findings may indicate potential neurology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

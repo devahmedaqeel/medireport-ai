@@ -1,0 +1,7 @@
+Prime Diagnostics
+
+REPORT: Cardiac Markers
+Troponin I: 0.01 ng/L [Ref: 0-0.04]
+CK-MB: 5.11  [Ref: 0-0]
+BNP: 8.56  [Ref: 0-0]
+LDH: 158.51  [Ref: 0-0]

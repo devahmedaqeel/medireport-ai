@@ -1,0 +1,10 @@
+Prime Diagnostics
+
+REPORT: BrainNeurologyText
+CATEGORY: Neurology
+
+FINDINGS:
+Patient presents with non-specific symptoms. BrainNeurologyText reveals some abnormalities in neurology structures.
+
+IMPRESSION:
+Findings may indicate potential neurology concern. Recommend specialist review.

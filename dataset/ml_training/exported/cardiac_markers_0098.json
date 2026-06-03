@@ -1,0 +1,46 @@
+{
+  "report_id": "cardiac_markers_0098",
+  "source": "synthetic",
+  "report_type": "Cardiac Markers",
+  "category": "Cardiovascular",
+  "text_clean": "Global MedLabs\n\nREPORT: Cardiac Markers\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTroponin I             0.08       ng/L       0-0.04\nCK-MB                  56.75                 0-0\nBNP                    114.03                0-0\nLDH                    8.06                  0-0",
+  "text_noisy": "Gl0bal MedLabs\n\nREPORT: Cardiac Markers\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTr0p0nin I             O O8       ng/L       O-O.O4\nCK-MB                  56.75                 0-O\nBNP                    I14.03                0-0\nLDH                    8 O6                  0-0",
+  "tests": [
+    {
+      "test_name": "Troponin I",
+      "value": 0.08,
+      "unit": "ng/L",
+      "range_low": 0,
+      "range_high": 0.04,
+      "status": "High",
+      "span_text": "Troponin I             0.08       ng/L       0-0.04"
+    },
+    {
+      "test_name": "CK-MB",
+      "value": 56.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "CK-MB                  56.75                 0-0"
+    },
+    {
+      "test_name": "BNP",
+      "value": 114.03,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BNP                    114.03                0-0"
+    },
+    {
+      "test_name": "LDH",
+      "value": 8.06,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDH                    8.06                  0-0"
+    }
+  ]
+}

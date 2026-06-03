@@ -1,0 +1,8 @@
+Prime Diagnostics
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Trop I                 0.03       ng/L       0-0.04
+CK-MB                  118.2                 0-0
+BNP                    49.63                 0-0
+LDH                    94.65                 0-0

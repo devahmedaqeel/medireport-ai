@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: HbA1c
+HbA1c 22.9  0 - 0

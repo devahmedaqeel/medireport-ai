@@ -1,0 +1,14 @@
+Metro Healthcare
+
+REPORT: CBC
+Hemoglobin: 5.24 g/dL [Ref: 12.0-17.0]
+White Blood Cells: 10324.82 /cmm [Ref: 4000-11000]
+Red Blood Cells: 21.74  [Ref: 0-0]
+PLT: 435939.5 /cmm [Ref: 150000-450000]
+Hematocrit: 27.35  [Ref: 0-0]
+MCV: 6.18  [Ref: 0-0]
+MCH: 38.51  [Ref: 0-0]
+MCHC: 78.63  [Ref: 0-0]
+RDW: 220.59  [Ref: 0-0]
+Neutrophils: 35.27  [Ref: 0-0]
+Lymphocytes: 473.98  [Ref: 0-0]

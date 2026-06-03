@@ -1,0 +1,15 @@
+LifeScan Center
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hemoglobin             12.66      g/dL       12.0-17.0
+White Blood Cells      10997.42   /cmm       4000-11000
+Red Blood Cells        0.64                  0-0
+Platelets              219406.8   /cmm       150000-450000
+Hematocrit             17.65                 0-0
+MCV                    5.65                  0-0
+MCH                    7.59                  0-0
+MCHC                   18.67                 0-0
+RDW                    108.18                0-0
+Neutrophils            75.98                 0-0
+Lymphocytes            4.21                  0-0

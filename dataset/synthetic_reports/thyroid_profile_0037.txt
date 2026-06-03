@@ -1,0 +1,8 @@
+Prime Diagnostics
+
+REPORT: Thyroid Profile
+Serum TSH: 6.07 mIU/L [Ref: 0.4-4.0]
+T3: 67.63  [Ref: 0-0]
+T4: 6.12  [Ref: 0-0]
+Free T3: 25.28  [Ref: 0-0]
+Free T4: 5.74  [Ref: 0-0]

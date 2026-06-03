@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0104",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTSH                    7.11       mIU/L      0.4-4.0\nT3                     81.4                  0-0\nT4                     40.76                 0-0\nFree T3                91.58                 0-0\nFree T4                36.13                 0-0",
+  "text_noisy": "City Clinical Lab0rat0ry\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nTSH                    7 11       mIU/L      O.4-4 0\nT3                     81.4                  0-0\nT4                     4O 76                 0-0\nFree T3                91.58                 0-0\nFree T4                36.I3                 0-0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 7.11,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "High",
+      "span_text": "TSH                    7.11       mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 81.4,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     81.4                  0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 40.76,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     40.76                 0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 91.58,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                91.58                 0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 36.13,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                36.13                 0-0"
+    }
+  ]
+}

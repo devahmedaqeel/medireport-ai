@@ -1,0 +1,14 @@
+Global MedLabs
+
+REPORT: CBC
+Hemoglobin 9.46 g/dL 12.0 - 17.0
+Total Leukocyte Count 65008.98 /cmm 4000 - 11000
+Red Blood Cells 18.97  0 - 0
+Platelets 199176.3 /cmm 150000 - 450000
+Hematocrit 22.15  0 - 0
+MCV 8.84  0 - 0
+MCH 64.01  0 - 0
+MCHC 3.3  0 - 0
+RDW 78.52  0 - 0
+Neutrophils 91.75  0 - 0
+Lymphocytes 7.96  0 - 0

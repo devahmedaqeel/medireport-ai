@@ -1,0 +1,19 @@
+{
+  "report_id": "fasting_blood_sugar_0059",
+  "source": "synthetic",
+  "report_type": "Fasting Blood Sugar",
+  "category": "Diabetes",
+  "text_clean": "Global MedLabs\n\nREPORT: Fasting Blood Sugar\nFasting Blood Sugar: 81.66  [Ref: 0-0]",
+  "text_noisy": "GIobal MedLabs\n\nREPORT: Fasting BI0od Sugar\nFasting BIood Sugar: 8I 66  [Ref: 0-O]",
+  "tests": [
+    {
+      "test_name": "Fasting Blood Sugar",
+      "value": 81.66,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Fasting Blood Sugar: 81.66  [Ref: 0-0]"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Prime Diagnostics
+
+REPORT: Cardiac Markers
+cTnI 0.04 ng/L 0 - 0.04
+CK-MB 42.72  0 - 0
+BNP 68.39  0 - 0
+LDH 26.79  0 - 0

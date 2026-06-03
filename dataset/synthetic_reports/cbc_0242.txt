@@ -1,0 +1,14 @@
+LifeScan Center
+
+REPORT: CBC
+HGB 3.96 g/dL 12.0 - 17.0
+White Blood Cells 6645.43 /cmm 4000 - 11000
+Red Blood Cells 83.11  0 - 0
+Platelets 92948.25 /cmm 150000 - 450000
+Hematocrit 48.24  0 - 0
+MCV 7.72  0 - 0
+MCH 41.91  0 - 0
+MCHC 45.12  0 - 0
+RDW 19.94  0 - 0
+Neutrophils 41.42  0 - 0
+Lymphocytes 1.96  0 - 0

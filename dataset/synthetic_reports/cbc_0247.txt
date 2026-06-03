@@ -1,0 +1,14 @@
+Global MedLabs
+
+REPORT: CBC
+Haemoglobin 14.74 g/dL 12.0 - 17.0
+White Blood Cells 10373.84 /cmm 4000 - 11000
+Red Blood Cells 1.33  0 - 0
+Platelets 168633.8 /cmm 150000 - 450000
+Hematocrit 29.36  0 - 0
+MCV 41.83  0 - 0
+MCH 111.56  0 - 0
+MCHC 16.4  0 - 0
+RDW 6.37  0 - 0
+Neutrophils 66.39  0 - 0
+Lymphocytes 6.35  0 - 0

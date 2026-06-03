@@ -1,0 +1,15 @@
+LifeScan Center
+
+REPORT: CBC
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Hb                     6.28       g/dL       12.0-17.0
+TLC                    7027.76    /cmm       4000-11000
+Red Blood Cells        4.35                  0-0
+Platelets              931364.56  /cmm       150000-450000
+Hematocrit             34.28                 0-0
+MCV                    0.62                  0-0
+MCH                    7.89                  0-0
+MCHC                   40.17                 0-0
+RDW                    3.92                  0-0
+Neutrophils            110.74                0-0
+Lymphocytes            40.23                 0-0

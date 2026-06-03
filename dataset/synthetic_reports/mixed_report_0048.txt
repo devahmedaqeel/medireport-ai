@@ -1,0 +1,4 @@
+City Clinical Laboratory
+
+REPORT: Mixed Report
+INVESTIGATION          RESULT      UNIT      REFERENCE

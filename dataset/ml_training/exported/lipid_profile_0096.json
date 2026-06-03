@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0096",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Prime Diagnostics\n\nREPORT: Lipid Profile\nTotal Cholesterol: 14.3  [Ref: 0-0]\nLDL: 18.15  [Ref: 0-0]\nHDL: 12.98  [Ref: 0-0]\nVLDL: 34.91  [Ref: 0-0]\nTriglycerides: 31.59  [Ref: 0-0]\nCholesterol/HDL Ratio: 119.62  [Ref: 0-0]",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: Lipid Profile\nTotal Cholesterol: 14.3  [Ref: 0-0]\nLDL: 18.15  [Ref: 0-0]\nHDL: 12.98  [Ref: 0-0]\nVLDL: 34.91  [Ref: 0-0]\nTriglycerides: 31.59  [Ref: 0-0]\nCholesterol/HDL Ratio: 119.62  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 14.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol: 14.3  [Ref: 0-0]"
+    },
+    {
+      "test_name": "LDL",
+      "value": 18.15,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL: 18.15  [Ref: 0-0]"
+    },
+    {
+      "test_name": "HDL",
+      "value": 12.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL: 12.98  [Ref: 0-0]"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 34.91,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL: 34.91  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 31.59,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides: 31.59  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 119.62,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio: 119.62  [Ref: 0-0]"
+    }
+  ]
+}

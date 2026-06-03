@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0106",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "Metro Healthcare\n\nREPORT: Thyroid Profile\nTSH: 0.18 mIU/L [Ref: 0.4-4.0]\nT3: 3.8  [Ref: 0-0]\nT4: 4.67  [Ref: 0-0]\nFree T3: 43.55  [Ref: 0-0]\nFree T4: 25.95  [Ref: 0-0]",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Thyroid Profile\nTSH: 0.18 mIU/L [Ref: 0.4-4.0]\nT3: 3.8  [Ref: 0-0]\nT4: 4.67  [Ref: 0-0]\nFree T3: 43.55  [Ref: 0-0]\nFree T4: 25.95  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 0.18,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Low",
+      "span_text": "TSH: 0.18 mIU/L [Ref: 0.4-4.0]"
+    },
+    {
+      "test_name": "T3",
+      "value": 3.8,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3: 3.8  [Ref: 0-0]"
+    },
+    {
+      "test_name": "T4",
+      "value": 4.67,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4: 4.67  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 43.55,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3: 43.55  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 25.95,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4: 25.95  [Ref: 0-0]"
+    }
+  ]
+}

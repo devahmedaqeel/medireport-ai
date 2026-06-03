@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0217",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHb                     24.92      g/dL       12.0-17.0\nTLC                    4300.88    /cmm       4000-11000\nRed Blood Cells        47.98                 0-0\nPlatelets              220235.45  /cmm       150000-450000\nHematocrit             44.34                 0-0\nMCV                    5.61                  0-0\nMCH                    96.43                 0-0\nMCHC                   36.53                 0-0\nRDW                    7.43                  0-0\nNeutrophils            38.32                 0-0\nLymphocytes            71.64                 0-0",
+  "text_noisy": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHb                     24.92      g/dL       12.0-17.0\nTLC                    4300.88    /cmm       4000-11000\nRed Blood Cells        47.98                 0-0\nPlatelets              220235.45  /cmm       150000-450000\nHematocrit             44.34                 0-0\nMCV                    5.61                  0-0\nMCH                    96.43                 0-0\nMCHC                   36.53                 0-0\nRDW                    7.43                  0-0\nNeutrophils            38.32                 0-0\nLymphocytes            71.64                 0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 24.92,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "High",
+      "span_text": "Hb                     24.92      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 4300.88,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "TLC                    4300.88    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 47.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        47.98                 0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 220235.45,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelets              220235.45  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 44.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             44.34                 0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 5.61,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    5.61                  0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 96.43,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    96.43                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 36.53,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   36.53                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 7.43,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    7.43                  0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 38.32,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            38.32                 0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 71.64,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            71.64                 0-0"
+    }
+  ]
+}

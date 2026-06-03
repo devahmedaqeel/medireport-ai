@@ -1,0 +1,5 @@
+LifeScan Center
+
+REPORT: Fasting Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Fasting Blood Sugar    29.9                  0-0

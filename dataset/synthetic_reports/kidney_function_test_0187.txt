@@ -1,0 +1,11 @@
+LifeScan Center
+
+REPORT: Kidney Function Test
+Creatinine: 0.43 mg/dL [Ref: 0.6-1.3]
+Urea: 351.45  [Ref: 0-0]
+BUN: 383.54  [Ref: 0-0]
+Uric Acid: 34.16  [Ref: 0-0]
+eGFR: 119.07  [Ref: 0-0]
+Sodium: 117.3  [Ref: 0-0]
+Potassium: 30.62  [Ref: 0-0]
+Chloride: 5.25  [Ref: 0-0]

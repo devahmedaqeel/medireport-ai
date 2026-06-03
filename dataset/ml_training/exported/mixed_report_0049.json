@@ -1,0 +1,9 @@
+{
+  "report_id": "mixed_report_0049",
+  "source": "synthetic",
+  "report_type": "Mixed Report",
+  "category": "Mixed",
+  "text_clean": "Metro Healthcare\n\nREPORT: Mixed Report\n",
+  "text_noisy": "Metro Healthcare\n\nREPORT: Mixed Report\n",
+  "tests": []
+}

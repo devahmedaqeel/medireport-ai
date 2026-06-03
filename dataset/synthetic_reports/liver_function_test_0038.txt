@@ -1,0 +1,12 @@
+Global MedLabs
+
+REPORT: Liver Function Test
+ALT 35.79 U/L 7 - 56
+AST 9.18  0 - 0
+ALP 39.92  0 - 0
+Bilirubin Total 20.74  0 - 0
+Bilirubin Direct 10.74  0 - 0
+Bilirubin Indirect 36.44  0 - 0
+Albumin 433.82  0 - 0
+Total Protein 99.86  0 - 0
+GGT 4.08  0 - 0

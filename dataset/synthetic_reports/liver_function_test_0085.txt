@@ -1,0 +1,13 @@
+LifeScan Center
+
+REPORT: Liver Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+ALT                    46.39      U/L        7-56
+AST                    28.24                 0-0
+ALP                    1.18                  0-0
+Bilirubin Total        37.2                  0-0
+Bilirubin Direct       38.72                 0-0
+Bilirubin Indirect     4.94                  0-0
+Albumin                124.25                0-0
+Total Protein          107.37                0-0
+GGT                    5.93                  0-0

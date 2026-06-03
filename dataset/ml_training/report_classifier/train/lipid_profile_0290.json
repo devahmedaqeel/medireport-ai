@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0290",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Lipid Profile\nTotal Cholesterol 4.79  0 - 0\nLDL 16.04  0 - 0\nHDL 61.06  0 - 0\nVLDL 1.69  0 - 0\nTriglycerides 25.95  0 - 0\nCholesterol/HDL Ratio 33.02  0 - 0",
+  "text_noisy": "City CIinicaI Laborat0ry\n\nREPORT: Lipid Profile\nTotaI Cholesterol 4.79  0 - 0\nLDL 16.04  O - 0\nHDL 6I 06  0 - 0\nVLDL 1 69  0 - 0\nTrigIycerides 25 95  0 - 0\nCholesteroI/HDL Ratio 33 02  0 - 0",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 4.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol 4.79  0 - 0"
+    },
+    {
+      "test_name": "LDL",
+      "value": 16.04,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL 16.04  0 - 0"
+    },
+    {
+      "test_name": "HDL",
+      "value": 61.06,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL 61.06  0 - 0"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 1.69,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL 1.69  0 - 0"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 25.95,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides 25.95  0 - 0"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 33.02,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio 33.02  0 - 0"
+    }
+  ]
+}

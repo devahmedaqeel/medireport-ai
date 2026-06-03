@@ -1,0 +1,7 @@
+LifeScan Center
+
+REPORT: Cardiac Markers
+Trop I: 0.07 ng/L [Ref: 0-0.04]
+CK-MB: 31.77  [Ref: 0-0]
+BNP: 35.4  [Ref: 0-0]
+LDH: 23.34  [Ref: 0-0]

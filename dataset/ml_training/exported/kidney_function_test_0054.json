@@ -1,0 +1,82 @@
+{
+  "report_id": "kidney_function_test_0054",
+  "source": "synthetic",
+  "report_type": "Kidney Function Test",
+  "category": "Renal",
+  "text_clean": "LifeScan Center\n\nREPORT: Kidney Function Test\nS. Creatinine: 1.12 mg/dL [Ref: 0.6-1.3]\nUrea: 13.98  [Ref: 0-0]\nBUN: 98.54  [Ref: 0-0]\nUric Acid: 48.26  [Ref: 0-0]\neGFR: 413.0  [Ref: 0-0]\nSodium: 24.16  [Ref: 0-0]\nPotassium: 1.01  [Ref: 0-0]\nChloride: 45.99  [Ref: 0-0]",
+  "text_noisy": "LifeScan Center\n\nREPORT: Kidney Function Test\nS. Creatinine: 1.12 mg/dL [Ref: 0.6-1.3]\nUrea: 13.98  [Ref: 0-0]\nBUN: 98.54  [Ref: 0-0]\nUric Acid: 48.26  [Ref: 0-0]\neGFR: 413.0  [Ref: 0-0]\nSodium: 24.16  [Ref: 0-0]\nPotassium: 1.01  [Ref: 0-0]\nChloride: 45.99  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Creatinine",
+      "value": 1.12,
+      "unit": "mg/dL",
+      "range_low": 0.6,
+      "range_high": 1.3,
+      "status": "Normal",
+      "span_text": "S. Creatinine: 1.12 mg/dL [Ref: 0.6-1.3]"
+    },
+    {
+      "test_name": "Urea",
+      "value": 13.98,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urea: 13.98  [Ref: 0-0]"
+    },
+    {
+      "test_name": "BUN",
+      "value": 98.54,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "BUN: 98.54  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Uric Acid",
+      "value": 48.26,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Uric Acid: 48.26  [Ref: 0-0]"
+    },
+    {
+      "test_name": "eGFR",
+      "value": 413.0,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "eGFR: 413.0  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Sodium",
+      "value": 24.16,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Sodium: 24.16  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Potassium",
+      "value": 1.01,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Potassium: 1.01  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Chloride",
+      "value": 45.99,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Chloride: 45.99  [Ref: 0-0]"
+    }
+  ]
+}

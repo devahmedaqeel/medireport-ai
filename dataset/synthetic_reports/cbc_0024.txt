@@ -1,0 +1,14 @@
+Prime Diagnostics
+
+REPORT: CBC
+Hemoglobin 1.99 g/dL 12.0 - 17.0
+Total Leukocyte Count 10957.97 /cmm 4000 - 11000
+Red Blood Cells 20.08  0 - 0
+PLT 3559321.59 /cmm 150000 - 450000
+Hematocrit 71.44  0 - 0
+MCV 3.51  0 - 0
+MCH 25.29  0 - 0
+MCHC 5.45  0 - 0
+RDW 7.51  0 - 0
+Neutrophils 22.3  0 - 0
+Lymphocytes 1.65  0 - 0

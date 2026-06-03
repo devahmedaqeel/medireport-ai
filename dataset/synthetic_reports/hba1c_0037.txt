@@ -1,0 +1,5 @@
+Metro Healthcare
+
+REPORT: HbA1c
+INVESTIGATION          RESULT      UNIT      REFERENCE
+HbA1c                  24.12                 0-0

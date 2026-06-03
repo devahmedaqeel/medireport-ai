@@ -1,0 +1,100 @@
+{
+  "report_id": "urine_report_0102",
+  "source": "synthetic",
+  "report_type": "Urine Report",
+  "category": "Urine",
+  "text_clean": "Global MedLabs\n\nREPORT: Urine Report\nUrine Protein: 1.97  [Ref: 0-0]\nUrine Glucose: 3.8  [Ref: 0-0]\nUrine Ketones: 18.79  [Ref: 0-0]\nPus Cells: 53.3  [Ref: 0-0]\nUrine RBC: 48.5  [Ref: 0-0]\nEpithelial Cells: 86.51  [Ref: 0-0]\nNitrite: 87.81  [Ref: 0-0]\nLeukocyte Esterase: 1.79  [Ref: 0-0]\nSpecific Gravity: 47.13  [Ref: 0-0]\npH: 92.75  [Ref: 0-0]",
+  "text_noisy": "Global MedLabs\n\nREPORT: Urine Report\nUrine Protein: 1.97  [Ref: 0-0]\nUrine Glucose: 3.8  [Ref: 0-0]\nUrine Ketones: 18.79  [Ref: 0-0]\nPus Cells: 53.3  [Ref: 0-0]\nUrine RBC: 48.5  [Ref: 0-0]\nEpithelial Cells: 86.51  [Ref: 0-0]\nNitrite: 87.81  [Ref: 0-0]\nLeukocyte Esterase: 1.79  [Ref: 0-0]\nSpecific Gravity: 47.13  [Ref: 0-0]\npH: 92.75  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Urine Protein",
+      "value": 1.97,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urine Protein: 1.97  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Urine Glucose",
+      "value": 3.8,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urine Glucose: 3.8  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Urine Ketones",
+      "value": 18.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urine Ketones: 18.79  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Pus Cells",
+      "value": 53.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Pus Cells: 53.3  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Urine RBC",
+      "value": 48.5,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Urine RBC: 48.5  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Epithelial Cells",
+      "value": 86.51,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Epithelial Cells: 86.51  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Nitrite",
+      "value": 87.81,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Nitrite: 87.81  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Leukocyte Esterase",
+      "value": 1.79,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Leukocyte Esterase: 1.79  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Specific Gravity",
+      "value": 47.13,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Specific Gravity: 47.13  [Ref: 0-0]"
+    },
+    {
+      "test_name": "pH",
+      "value": 92.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "pH: 92.75  [Ref: 0-0]"
+    }
+  ]
+}

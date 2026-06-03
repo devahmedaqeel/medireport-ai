@@ -1,0 +1,9 @@
+Prime Diagnostics
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+TSH                    0.22       mIU/L      0.4-4.0
+T3                     4.47                  0-0
+T4                     37.91                 0-0
+Free T3                7.48                  0-0
+Free T4                406.04                0-0

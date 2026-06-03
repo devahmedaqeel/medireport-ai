@@ -1,0 +1,11 @@
+Metro Healthcare
+
+REPORT: Kidney Function Test
+Creatinine: 0.91 mg/dL [Ref: 0.6-1.3]
+Urea: 108.32  [Ref: 0-0]
+BUN: 56.6  [Ref: 0-0]
+Uric Acid: 87.22  [Ref: 0-0]
+eGFR: 30.5  [Ref: 0-0]
+Sodium: 1.33  [Ref: 0-0]
+Potassium: 107.4  [Ref: 0-0]
+Chloride: 18.87  [Ref: 0-0]

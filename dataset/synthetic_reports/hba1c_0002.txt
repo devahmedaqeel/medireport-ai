@@ -1,0 +1,4 @@
+Prime Diagnostics
+
+REPORT: HbA1c
+HbA1c 4.56  0 - 0

@@ -1,0 +1,11 @@
+Global MedLabs
+
+REPORT: Kidney Function Test
+Serum Creatinine: 0.4 mg/dL [Ref: 0.6-1.3]
+Urea: 36.29  [Ref: 0-0]
+BUN: 1.49  [Ref: 0-0]
+Uric Acid: 113.66  [Ref: 0-0]
+eGFR: 12.63  [Ref: 0-0]
+Sodium: 9.3  [Ref: 0-0]
+Potassium: 62.61  [Ref: 0-0]
+Chloride: 99.74  [Ref: 0-0]

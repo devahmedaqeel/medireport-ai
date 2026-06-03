@@ -1,0 +1,23 @@
+{
+  "Hemoglobin": {
+    "CriticalLow": 7.0,
+    "CriticalHigh": 20.0
+  },
+  "Platelets": {
+    "CriticalLow": 50000,
+    "CriticalHigh": 1000000
+  },
+  "Fasting Blood Sugar": {
+    "CriticalLow": 50,
+    "CriticalHigh": 300,
+    "VeryHigh": 126
+  },
+  "Random Blood Sugar": {
+    "CriticalLow": 60,
+    "CriticalHigh": 400,
+    "VeryHigh": 200
+  },
+  "HbA1c": {
+    "VeryHigh": 6.5
+  }
+}

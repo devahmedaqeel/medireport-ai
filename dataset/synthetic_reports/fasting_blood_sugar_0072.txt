@@ -1,0 +1,5 @@
+Metro Healthcare
+
+REPORT: Fasting Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Fasting Blood Sugar    7.33                  0-0

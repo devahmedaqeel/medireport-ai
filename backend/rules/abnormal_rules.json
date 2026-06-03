@@ -1,0 +1,29 @@
+{
+  "Hemoglobin": {
+    "Low": {
+      "possible_indication": "Possible anemia or blood deficiency risk",
+      "english_explanation": "Low hemoglobin may indicate anemia or blood deficiency.",
+      "roman_urdu_explanation": "Hemoglobin kam hai, yeh khoon ki kami ya anemia ke risk ki taraf ishara kar sakta hai.",
+      "doctor_advice": "Consult a qualified doctor for confirmation.",
+      "urgency": "moderate"
+    }
+  },
+  "Troponin I": {
+    "High": {
+      "possible_indication": "Possible cardiac injury",
+      "english_explanation": "Elevated Troponin is a sensitive marker for possible cardiac injury.",
+      "roman_urdu_explanation": "Troponin normal se zyada hai, yeh dil mein injury ya strain ki taraf ishara ho sakta hai.",
+      "doctor_advice": "Urgent doctor review is highly recommended.",
+      "urgency": "critical"
+    }
+  },
+  "Creatinine": {
+    "High": {
+      "possible_indication": "Possible kidney function concern",
+      "english_explanation": "High creatinine may indicate that kidneys are not filtering waste optimally.",
+      "roman_urdu_explanation": "Creatinine normal se zyada hai, yeh gurdon (kidneys) ki karkardagi mein kami ka ishara ho sakta hai.",
+      "doctor_advice": "Consult a Nephrologist for evaluation.",
+      "urgency": "high"
+    }
+  }
+}

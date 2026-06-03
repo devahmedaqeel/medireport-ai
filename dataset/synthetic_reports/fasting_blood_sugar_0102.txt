@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Fasting Blood Sugar
+Fasting Blood Sugar 3.92  0 - 0

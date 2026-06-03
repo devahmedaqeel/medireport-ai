@@ -1,0 +1,10 @@
+LifeScan Center
+
+REPORT: Lipid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Total Cholesterol      111.81                0-0
+LDL                    7.39                  0-0
+HDL                    9.32                  0-0
+VLDL                   49.96                 0-0
+Triglycerides          0.76                  0-0
+Cholesterol/HDL Ratio  101.02                0-0

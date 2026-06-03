@@ -1,0 +1,5 @@
+Prime Diagnostics
+
+REPORT: Fasting Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Fasting Blood Sugar    119.7                 0-0

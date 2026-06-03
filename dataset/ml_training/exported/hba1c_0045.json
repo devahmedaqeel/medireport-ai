@@ -1,0 +1,19 @@
+{
+  "report_id": "hba1c_0045",
+  "source": "synthetic",
+  "report_type": "HbA1c",
+  "category": "Diabetes",
+  "text_clean": "LifeScan Center\n\nREPORT: HbA1c\nHbA1c 3.24  0 - 0",
+  "text_noisy": "LifeScan Center\n\nREPORT: HbA1c\nHbA1c 3.24  0 - 0",
+  "tests": [
+    {
+      "test_name": "HbA1c",
+      "value": 3.24,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HbA1c 3.24  0 - 0"
+    }
+  ]
+}

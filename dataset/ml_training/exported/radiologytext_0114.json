@@ -1,0 +1,14 @@
+{
+  "report_id": "radiologytext_0114",
+  "source": "synthetic",
+  "report_type": "RadiologyText",
+  "category": "Radiology",
+  "text_clean": "Global MedLabs\n\nREPORT: RadiologyText\nCATEGORY: Radiology\n\nFINDINGS:\nPatient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.\n\nIMPRESSION:\nFindings may indicate potential radiology concern. Recommend specialist review.\n",
+  "text_noisy": "GI0bal MedLabs\n\nREPORT: Radi0l0gyText\nCATEGORY: Radi0Iogy\n\nFINDINGS:\nPatient presents with non-specific sympt0ms. RadioIogyText reveals s0me abnormalities in radi0I0gy structures.\n\nIMPRESSION:\nFindings may indicate p0tentiaI radi0Iogy concern  Recommend specialist review \n",
+  "findings": "Patient presents with non-specific symptoms. RadiologyText reveals some abnormalities in radiology structures.",
+  "impression": "Findings may indicate potential radiology concern. Recommend specialist review.",
+  "urgent_keywords": [
+    "abnormalities"
+  ],
+  "manual_review_required": true
+}

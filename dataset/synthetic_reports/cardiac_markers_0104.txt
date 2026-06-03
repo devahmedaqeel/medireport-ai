@@ -1,0 +1,8 @@
+City Clinical Laboratory
+
+REPORT: Cardiac Markers
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Troponin I             0.0        ng/L       0-0.04
+CK-MB                  389.71                0-0
+BNP                    25.56                 0-0
+LDH                    40.35                 0-0

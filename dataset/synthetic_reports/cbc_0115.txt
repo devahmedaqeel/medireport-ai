@@ -1,0 +1,14 @@
+LifeScan Center
+
+REPORT: CBC
+HGB 15.1 g/dL 12.0 - 17.0
+TLC 4227.91 /cmm 4000 - 11000
+Red Blood Cells 121.38  0 - 0
+Platelet Count 141955.86 /cmm 150000 - 450000
+Hematocrit 46.52  0 - 0
+MCV 4.51  0 - 0
+MCH 71.55  0 - 0
+MCHC 16.59  0 - 0
+RDW 1.66  0 - 0
+Neutrophils 49.53  0 - 0
+Lymphocytes 6.22  0 - 0

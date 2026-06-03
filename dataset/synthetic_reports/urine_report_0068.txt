@@ -1,0 +1,13 @@
+Metro Healthcare
+
+REPORT: Urine Report
+Urine Protein: 73.06  [Ref: 0-0]
+Urine Glucose: 45.89  [Ref: 0-0]
+Urine Ketones: 82.39  [Ref: 0-0]
+Pus Cells: 62.39  [Ref: 0-0]
+Urine RBC: 4.57  [Ref: 0-0]
+Epithelial Cells: 15.47  [Ref: 0-0]
+Nitrite: 23.85  [Ref: 0-0]
+Leukocyte Esterase: 17.38  [Ref: 0-0]
+Specific Gravity: 63.08  [Ref: 0-0]
+pH: 36.01  [Ref: 0-0]

@@ -1,0 +1,9 @@
+LifeScan Center
+
+REPORT: Thyroid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+TSH                    5.8        mIU/L      0.4-4.0
+T3                     14.58                 0-0
+T4                     47.24                 0-0
+Free T3                96.18                 0-0
+Free T4                39.97                 0-0

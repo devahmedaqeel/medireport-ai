@@ -1,0 +1,55 @@
+{
+  "report_id": "thyroid_profile_0213",
+  "source": "synthetic",
+  "report_type": "Thyroid Profile",
+  "category": "Endocrine",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: Thyroid Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid Stimulating Hormone 1.8        mIU/L      0.4-4.0\nT3                     17.29                 0-0\nT4                     114.3                 0-0\nFree T3                6.91                  0-0\nFree T4                49.59                 0-0",
+  "text_noisy": "City ClinicaI Laboratory\n\nREPORT: Thyr0id Profile\nINVESTIGATION          RESULT      UNIT      REFERENCE\nThyroid StimuIating H0rmone I 8        mIU/L      O 4-4.0\nT3                     17.29                 0-O\nT4                     I14 3                 0-0\nFree T3                6.91                  0-0\nFree T4                49.59                 0-0",
+  "tests": [
+    {
+      "test_name": "TSH",
+      "value": 1.8,
+      "unit": "mIU/L",
+      "range_low": 0.4,
+      "range_high": 4.0,
+      "status": "Normal",
+      "span_text": "Thyroid Stimulating Hormone 1.8        mIU/L      0.4-4.0"
+    },
+    {
+      "test_name": "T3",
+      "value": 17.29,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T3                     17.29                 0-0"
+    },
+    {
+      "test_name": "T4",
+      "value": 114.3,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "T4                     114.3                 0-0"
+    },
+    {
+      "test_name": "Free T3",
+      "value": 6.91,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T3                6.91                  0-0"
+    },
+    {
+      "test_name": "Free T4",
+      "value": 49.59,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Free T4                49.59                 0-0"
+    }
+  ]
+}

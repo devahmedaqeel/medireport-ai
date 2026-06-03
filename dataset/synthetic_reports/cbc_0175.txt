@@ -1,0 +1,14 @@
+City Clinical Laboratory
+
+REPORT: CBC
+HGB: 16.44 g/dL [Ref: 12.0-17.0]
+Total Leukocyte Count: 6304.9 /cmm [Ref: 4000-11000]
+Red Blood Cells: 39.66  [Ref: 0-0]
+Platelet Count: 190824.83 /cmm [Ref: 150000-450000]
+Hematocrit: 4.08  [Ref: 0-0]
+MCV: 0.84  [Ref: 0-0]
+MCH: 37.77  [Ref: 0-0]
+MCHC: 112.64  [Ref: 0-0]
+RDW: 7.94  [Ref: 0-0]
+Neutrophils: 38.08  [Ref: 0-0]
+Lymphocytes: 110.1  [Ref: 0-0]

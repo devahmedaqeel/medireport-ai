@@ -1,0 +1,14 @@
+Global MedLabs
+
+REPORT: CBC
+Hemoglobin: 4.35 g/dL [Ref: 12.0-17.0]
+White Blood Cells: 26716.71 /cmm [Ref: 4000-11000]
+Red Blood Cells: 8.02  [Ref: 0-0]
+Platelets: 1042328.28 /cmm [Ref: 150000-450000]
+Hematocrit: 8.13  [Ref: 0-0]
+MCV: 24.54  [Ref: 0-0]
+MCH: 4.74  [Ref: 0-0]
+MCHC: 9.3  [Ref: 0-0]
+RDW: 47.55  [Ref: 0-0]
+Neutrophils: 38.01  [Ref: 0-0]
+Lymphocytes: 4.17  [Ref: 0-0]

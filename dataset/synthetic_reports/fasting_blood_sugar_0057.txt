@@ -1,0 +1,5 @@
+City Clinical Laboratory
+
+REPORT: Fasting Blood Sugar
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Fasting Blood Sugar    5.75                  0-0

@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0187",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "LifeScan Center\n\nREPORT: Lipid Profile\nTotal Cholesterol 26.85  0 - 0\nLDL 54.86  0 - 0\nHDL 9.17  0 - 0\nVLDL 59.88  0 - 0\nTriglycerides 33.72  0 - 0\nCholesterol/HDL Ratio 37.73  0 - 0",
+  "text_noisy": "LifeScan Center\n\nREPORT: Lipid Profile\nTotal Cholesterol 26.85  0 - 0\nLDL 54.86  0 - 0\nHDL 9.17  0 - 0\nVLDL 59.88  0 - 0\nTriglycerides 33.72  0 - 0\nCholesterol/HDL Ratio 37.73  0 - 0",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 26.85,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol 26.85  0 - 0"
+    },
+    {
+      "test_name": "LDL",
+      "value": 54.86,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL 54.86  0 - 0"
+    },
+    {
+      "test_name": "HDL",
+      "value": 9.17,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL 9.17  0 - 0"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 59.88,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL 59.88  0 - 0"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 33.72,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides 33.72  0 - 0"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 37.73,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio 37.73  0 - 0"
+    }
+  ]
+}

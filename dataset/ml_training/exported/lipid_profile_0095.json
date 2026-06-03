@@ -1,0 +1,64 @@
+{
+  "report_id": "lipid_profile_0095",
+  "source": "synthetic",
+  "report_type": "Lipid Profile",
+  "category": "Cardiovascular",
+  "text_clean": "Global MedLabs\n\nREPORT: Lipid Profile\nTotal Cholesterol: 413.34  [Ref: 0-0]\nLDL: 25.77  [Ref: 0-0]\nHDL: 89.22  [Ref: 0-0]\nVLDL: 5.06  [Ref: 0-0]\nTriglycerides: 20.35  [Ref: 0-0]\nCholesterol/HDL Ratio: 4.61  [Ref: 0-0]",
+  "text_noisy": "Global MedLabs\n\nREPORT: Lipid Profile\nTotal Cholesterol: 413.34  [Ref: 0-0]\nLDL: 25.77  [Ref: 0-0]\nHDL: 89.22  [Ref: 0-0]\nVLDL: 5.06  [Ref: 0-0]\nTriglycerides: 20.35  [Ref: 0-0]\nCholesterol/HDL Ratio: 4.61  [Ref: 0-0]",
+  "tests": [
+    {
+      "test_name": "Total Cholesterol",
+      "value": 413.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Total Cholesterol: 413.34  [Ref: 0-0]"
+    },
+    {
+      "test_name": "LDL",
+      "value": 25.77,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "LDL: 25.77  [Ref: 0-0]"
+    },
+    {
+      "test_name": "HDL",
+      "value": 89.22,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "HDL: 89.22  [Ref: 0-0]"
+    },
+    {
+      "test_name": "VLDL",
+      "value": 5.06,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "VLDL: 5.06  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Triglycerides",
+      "value": 20.35,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Triglycerides: 20.35  [Ref: 0-0]"
+    },
+    {
+      "test_name": "Cholesterol/HDL Ratio",
+      "value": 4.61,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Cholesterol/HDL Ratio: 4.61  [Ref: 0-0]"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+Troponin I: 0.0 ng/L [Ref: 0-0.04]
+CK-MB: 47.6  [Ref: 0-0]
+BNP: 81.98  [Ref: 0-0]
+LDH: 33.19  [Ref: 0-0]

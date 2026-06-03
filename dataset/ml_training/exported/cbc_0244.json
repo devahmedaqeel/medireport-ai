@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0244",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "Prime Diagnostics\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemoglobin             12.98      g/dL       12.0-17.0\nTLC                    1659.59    /cmm       4000-11000\nRed Blood Cells        41.31                 0-0\nPlatelets              367100.92  /cmm       150000-450000\nHematocrit             79.56                 0-0\nMCV                    19.75                 0-0\nMCH                    38.1                  0-0\nMCHC                   13.01                 0-0\nRDW                    44.2                  0-0\nNeutrophils            7.34                  0-0\nLymphocytes            123.84                0-0",
+  "text_noisy": "Prime Diagnostics\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHemogl0bin             12 98      g/dL       I2.0-I7 0\nTLC                    I659.59    /cmm       4OO0-11000\nRed BIood Cells        4I.31                 0-O\nPlateIets              3671OO.92  /cmm       15OO0O-450000\nHemat0crit             79 56                 0-0\nMCV                    19 75                 0-O\nMCH                    38.I                  0-O\nMCHC                   13.01                 O-O\nRDW                    44.2                  0-0\nNeutr0phils            7.34                  0-0\nLymphocytes            I23.84                O-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 12.98,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Normal",
+      "span_text": "Hemoglobin             12.98      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 1659.59,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Low",
+      "span_text": "TLC                    1659.59    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 41.31,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        41.31                 0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 367100.92,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "Normal",
+      "span_text": "Platelets              367100.92  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 79.56,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             79.56                 0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 19.75,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    19.75                 0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 38.1,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    38.1                  0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 13.01,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   13.01                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 44.2,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    44.2                  0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 7.34,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            7.34                  0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 123.84,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            123.84                0-0"
+    }
+  ]
+}

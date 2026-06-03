@@ -1,0 +1,12 @@
+City Clinical Laboratory
+
+REPORT: Liver Function Test
+SGPT: 529.42 U/L [Ref: 7-56]
+AST: 104.66  [Ref: 0-0]
+ALP: 62.2  [Ref: 0-0]
+Bilirubin Total: 19.7  [Ref: 0-0]
+Bilirubin Direct: 18.29  [Ref: 0-0]
+Bilirubin Indirect: 40.61  [Ref: 0-0]
+Albumin: 47.56  [Ref: 0-0]
+Total Protein: 0.69  [Ref: 0-0]
+GGT: 8.78  [Ref: 0-0]

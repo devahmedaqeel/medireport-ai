@@ -1,0 +1,10 @@
+Metro Healthcare
+
+REPORT: Lipid Profile
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Total Cholesterol      1.8                   0-0
+LDL                    1.0                   0-0
+HDL                    10.33                 0-0
+VLDL                   79.42                 0-0
+Triglycerides          8.55                  0-0
+Cholesterol/HDL Ratio  33.21                 0-0

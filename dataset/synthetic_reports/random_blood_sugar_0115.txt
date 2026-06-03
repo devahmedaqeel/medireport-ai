@@ -1,0 +1,4 @@
+LifeScan Center
+
+REPORT: Random Blood Sugar
+Random Blood Sugar: 96.93  [Ref: 0-0]

@@ -1,0 +1,7 @@
+Metro Healthcare
+
+REPORT: Cardiac Markers
+Trop I 0.0 ng/L 0 - 0.04
+CK-MB 44.49  0 - 0
+BNP 41.83  0 - 0
+LDH 0.76  0 - 0

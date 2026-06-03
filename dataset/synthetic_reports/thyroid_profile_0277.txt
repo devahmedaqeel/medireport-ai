@@ -1,0 +1,8 @@
+Global MedLabs
+
+REPORT: Thyroid Profile
+Thyroid Stimulating Hormone: 0.21 mIU/L [Ref: 0.4-4.0]
+T3: 30.68  [Ref: 0-0]
+T4: 35.02  [Ref: 0-0]
+Free T3: 3.36  [Ref: 0-0]
+Free T4: 4.21  [Ref: 0-0]

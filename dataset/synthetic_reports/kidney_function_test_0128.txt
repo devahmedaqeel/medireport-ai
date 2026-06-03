@@ -1,0 +1,12 @@
+City Clinical Laboratory
+
+REPORT: Kidney Function Test
+INVESTIGATION          RESULT      UNIT      REFERENCE
+Serum Creatinine       1.17       mg/dL      0.6-1.3
+Urea                   71.39                 0-0
+BUN                    120.47                0-0
+Uric Acid              4.24                  0-0
+eGFR                   5.57                  0-0
+Sodium                 93.03                 0-0
+Potassium              0.57                  0-0
+Chloride               37.76                 0-0

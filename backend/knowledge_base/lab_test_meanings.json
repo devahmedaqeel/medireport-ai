@@ -1,0 +1,11 @@
+{
+  "Hemoglobin": { "purpose": "Checks for anemia or polycythemia" },
+  "White Blood Cells": { "purpose": "Detects infection, inflammation, or immune issues" },
+  "Platelets": { "purpose": "Evaluates blood clotting ability" },
+  "Fasting Blood Sugar": { "purpose": "Screens for diabetes or prediabetes" },
+  "HbA1c": { "purpose": "Measures average blood sugar over 3 months" },
+  "ALT": { "purpose": "Primary marker for liver health" },
+  "AST": { "purpose": "Marker for liver or muscle damage" },
+  "Creatinine": { "purpose": "Key indicator of kidney filtration function" },
+  "TSH": { "purpose": "Main screening test for thyroid function" }
+}

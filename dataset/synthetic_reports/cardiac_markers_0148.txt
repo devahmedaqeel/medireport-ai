@@ -1,0 +1,7 @@
+Global MedLabs
+
+REPORT: Cardiac Markers
+Trop I 0.1 ng/L 0 - 0.04
+CK-MB 19.39  0 - 0
+BNP 34.21  0 - 0
+LDH 59.18  0 - 0

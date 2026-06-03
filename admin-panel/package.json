@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview"},"dependencies":{"@supabase/supabase-js":"^2.106.2","@vitejs/plugin-react":"latest","react":"latest","react-dom":"latest","recharts":"latest","vite":"latest"}}

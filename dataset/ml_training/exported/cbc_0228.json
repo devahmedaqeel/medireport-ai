@@ -1,0 +1,109 @@
+{
+  "report_id": "cbc_0228",
+  "source": "synthetic",
+  "report_type": "CBC",
+  "category": "Hematology",
+  "text_clean": "City Clinical Laboratory\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    11.03      g/dL       12.0-17.0\nWBC                    6289.08    /cmm       4000-11000\nRed Blood Cells        17.27                 0-0\nPLT                    913815.57  /cmm       150000-450000\nHematocrit             11.7                  0-0\nMCV                    124.58                0-0\nMCH                    19.69                 0-0\nMCHC                   36.29                 0-0\nRDW                    3.32                  0-0\nNeutrophils            73.86                 0-0\nLymphocytes            59.49                 0-0",
+  "text_noisy": "City Clinical Lab0rat0ry\n\nREPORT: CBC\nINVESTIGATION          RESULT      UNIT      REFERENCE\nHGB                    I1.O3      g/dL       12 O-17.0\nWBC                    6289.08    /cmm       4000-II000\nRed Bl00d CeIls        17.27                 O-0\nPLT                    9138I5 57  /cmm       15OOOO-45OOO0\nHemat0crit             11 7                  0-0\nMCV                    I24.58                0-0\nMCH                    I9.69                 O-O\nMCHC                   36.29                 O-0\nRDW                    3 32                  O-O\nNeutr0phils            73 86                 0-0\nLymph0cytes            59.49                 0-0",
+  "tests": [
+    {
+      "test_name": "Hemoglobin",
+      "value": 11.03,
+      "unit": "g/dL",
+      "range_low": 12.0,
+      "range_high": 17.0,
+      "status": "Low",
+      "span_text": "HGB                    11.03      g/dL       12.0-17.0"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "value": 6289.08,
+      "unit": "/cmm",
+      "range_low": 4000,
+      "range_high": 11000,
+      "status": "Normal",
+      "span_text": "WBC                    6289.08    /cmm       4000-11000"
+    },
+    {
+      "test_name": "Red Blood Cells",
+      "value": 17.27,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Red Blood Cells        17.27                 0-0"
+    },
+    {
+      "test_name": "Platelets",
+      "value": 913815.57,
+      "unit": "/cmm",
+      "range_low": 150000,
+      "range_high": 450000,
+      "status": "High",
+      "span_text": "PLT                    913815.57  /cmm       150000-450000"
+    },
+    {
+      "test_name": "Hematocrit",
+      "value": 11.7,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Hematocrit             11.7                  0-0"
+    },
+    {
+      "test_name": "MCV",
+      "value": 124.58,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCV                    124.58                0-0"
+    },
+    {
+      "test_name": "MCH",
+      "value": 19.69,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCH                    19.69                 0-0"
+    },
+    {
+      "test_name": "MCHC",
+      "value": 36.29,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "MCHC                   36.29                 0-0"
+    },
+    {
+      "test_name": "RDW",
+      "value": 3.32,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "RDW                    3.32                  0-0"
+    },
+    {
+      "test_name": "Neutrophils",
+      "value": 73.86,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Neutrophils            73.86                 0-0"
+    },
+    {
+      "test_name": "Lymphocytes",
+      "value": 59.49,
+      "unit": "",
+      "range_low": 0,
+      "range_high": 0,
+      "status": "High",
+      "span_text": "Lymphocytes            59.49                 0-0"
+    }
+  ]
+}

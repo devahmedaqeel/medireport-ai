@@ -1,0 +1,4 @@
+Global MedLabs
+
+REPORT: Mixed Report
+INVESTIGATION          RESULT      UNIT      REFERENCE

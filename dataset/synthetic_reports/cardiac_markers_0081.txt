@@ -1,0 +1,7 @@
+Metro Healthcare
+
+REPORT: Cardiac Markers
+Troponin I 0.03 ng/L 0 - 0.04
+CK-MB 32.48  0 - 0
+BNP 32.07  0 - 0
+LDH 42.78  0 - 0
